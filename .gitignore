@@ -18,3 +18,4 @@ dist/
 *.egg-info/
 outputs/*.joblib
 outputs/*.sqlite
+PORTFOLIO_AND_RESUME_NOTES.md
