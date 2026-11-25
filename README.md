@@ -217,8 +217,8 @@ The application generates a report bundle in `outputs/`.
 ### Step 1: Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd opspulse_project
+git clone https://github.com/Mohsen-Sajjadi-ai/OpsPulse.git
+cd OpsPulse
 ```
 
 ### Step 2: Create a virtual environment
