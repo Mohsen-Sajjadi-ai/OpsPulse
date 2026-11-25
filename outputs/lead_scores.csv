@@ -1,0 +1,801 @@
+lead_id,created_at,region,industry,company_size,lead_source,response_time_hours,interactions_count,previous_purchases,sales_stage,deal_value_usd,converted,conversion_probability,priority_band
+LD-00767,2026-06-24,North America,Technology,SMB,Website,7.53,9,3,Closed Won,2155.39,1,0.9397621505700531,High
+LD-00383,2026-06-01,APAC,Technology,Enterprise,Partner,7.8,3,3,Closed Won,60219.64,1,0.8993467731106349,High
+LD-00263,2025-12-17,North America,Professional Services,Enterprise,Referral,10.35,2,3,Closed Won,49314.48,1,0.8825110510264204,High
+LD-00731,2025-11-25,North America,Professional Services,Mid-Market,Referral,9.66,5,1,Qualified,23957.82,0,0.8721712791567074,High
+LD-00493,2026-06-24,Europe,Retail,Mid-Market,Partner,8.39,8,0,Closed Won,21019.78,1,0.8677436586377235,High
+LD-00775,2025-02-02,North America,Technology,SMB,Partner,8.02,4,2,Closed Won,2517.21,1,0.8672645185161988,High
+LD-00766,2026-03-24,North America,Retail,Mid-Market,Partner,7.07,4,1,New,14253.57,0,0.8669151782603405,High
+LD-00353,2026-08-20,Europe,Technology,Mid-Market,Webinar,16.55,5,3,Qualified,14284.33,0,0.8665445227893017,High
+LD-00105,2026-06-03,APAC,Education,SMB,Referral,10.31,5,3,Closed Won,8038.36,1,0.8656266202743143,High
+LD-00146,2026-06-08,North America,Professional Services,Mid-Market,Referral,1.4,3,1,Closed Won,18976.19,1,0.8646863697708514,High
+LD-00611,2025-11-02,Europe,Education,Enterprise,Referral,9.01,3,3,Closed Won,18717.75,1,0.8637978325404495,High
+LD-00041,2025-07-29,Europe,Technology,Mid-Market,Paid Search,10.77,4,3,Closed Won,18024.1,1,0.8615287667418756,High
+LD-00332,2025-08-26,North America,Retail,Mid-Market,Referral,10.89,7,0,Closed Won,15229.42,1,0.8611634797569864,High
+LD-00163,2026-04-29,North America,Technology,SMB,Partner,10.11,4,2,Closed Won,7127.0,1,0.8580059507501921,High
+LD-00689,2025-10-23,APAC,Education,SMB,LinkedIn,9.47,6,3,Closed Won,3703.45,1,0.856755127246794,High
+LD-00762,2025-10-12,North America,Retail,SMB,Paid Search,5.8,11,0,Closed Won,4917.76,1,0.8550060814795882,High
+LD-00287,2025-11-28,North America,Healthcare,SMB,Website,7.37,9,1,Closed Won,5662.68,1,0.8526782143071041,High
+LD-00481,2025-07-01,Europe,Professional Services,SMB,Website,9.95,6,3,Closed Won,4199.32,1,0.851682037282297,High
+LD-00034,2025-08-26,North America,Healthcare,Mid-Market,Referral,7.15,2,2,Closed Won,13908.24,1,0.8498892465141223,High
+LD-00084,2026-04-11,North America,Retail,SMB,Referral,5.88,4,2,Closed Won,5330.69,1,0.8496301338318794,High
+LD-00566,2025-02-13,Europe,Retail,SMB,LinkedIn,7.36,5,3,Qualified,3492.54,0,0.8470230297391748,High
+LD-00131,2026-05-12,North America,Professional Services,Enterprise,Partner,13.26,4,2,Closed Won,25644.16,1,0.8468832937451014,High
+LD-00190,2025-02-15,North America,Education,SMB,Referral,11.65,5,2,Closed Lost,3262.25,0,0.8412935732522182,High
+LD-00509,2026-03-27,Europe,Technology,SMB,Paid Search,10.45,5,2,Qualified,4055.26,0,0.839011481751867,High
+LD-00051,2026-07-10,North America,Technology,SMB,Partner,8.77,1,3,Closed Won,2199.83,1,0.8388372506548011,High
+LD-00290,2026-07-15,North America,Retail,SMB,LinkedIn,6.71,6,2,Closed Won,4142.47,1,0.8368559222196291,High
+LD-00512,2026-04-11,APAC,Education,SMB,Website,2.69,5,3,Closed Won,5964.57,1,0.8352523047866057,High
+LD-00112,2026-09-12,North America,Education,SMB,Referral,15.9,3,3,Proposal,5359.67,0,0.8315918475220212,High
+LD-00118,2025-12-01,Europe,Technology,Mid-Market,Website,5.94,5,2,Closed Won,4662.68,1,0.8313218367017503,High
+LD-00364,2026-05-08,North America,Technology,SMB,Referral,20.97,10,0,Closed Won,997.51,1,0.8308534714992628,High
+LD-00156,2025-05-09,Europe,Education,Mid-Market,Partner,10.79,4,2,Closed Won,19889.76,1,0.8217324988174873,High
+LD-00226,2025-03-31,APAC,Professional Services,SMB,Referral,18.06,6,3,Closed Won,7540.88,1,0.8216210122086223,High
+LD-00377,2026-07-25,APAC,Retail,SMB,Partner,17.54,5,2,Qualified,7715.74,0,0.8195208374430609,High
+LD-00136,2025-09-29,North America,Technology,Mid-Market,LinkedIn,20.87,7,1,Closed Won,11101.81,1,0.8189844104399505,High
+LD-00443,2025-09-09,APAC,Professional Services,Mid-Market,Referral,22.28,3,3,Closed Won,23154.97,1,0.8182644790978144,High
+LD-00590,2025-09-30,North America,Technology,Enterprise,Partner,7.83,3,1,Closed Won,45706.84,1,0.8177636695868332,High
+LD-00273,2025-11-17,North America,Professional Services,Enterprise,Referral,5.48,5,0,Closed Won,34891.63,1,0.817050764555707,High
+LD-00650,2025-09-13,North America,Technology,SMB,Website,3.9,7,1,Qualified,3704.15,0,0.8169156956021362,High
+LD-00292,2025-10-23,North America,Healthcare,Mid-Market,Referral,11.75,6,0,Proposal,24577.9,0,0.8159628528868155,High
+LD-00778,2026-06-23,North America,Education,Mid-Market,Referral,7.38,6,0,Qualified,14692.15,0,0.8157164609997095,High
+LD-00399,2025-06-17,Europe,Professional Services,Mid-Market,Partner,25.22,4,2,Closed Won,16809.79,1,0.8147703148682715,High
+LD-00328,2026-03-12,Europe,Healthcare,Mid-Market,Website,6.61,7,1,Proposal,6741.83,0,0.8079792713788571,High
+LD-00238,2025-11-18,APAC,Professional Services,SMB,Website,8.93,6,3,Closed Won,2707.5,1,0.8075069805916885,High
+LD-00015,2025-03-18,Europe,Technology,Mid-Market,LinkedIn,12.67,4,2,Qualified,3598.27,0,0.807284314482052,High
+LD-00748,2026-07-15,Europe,Healthcare,Mid-Market,Partner,10.02,6,0,Closed Won,4475.54,1,0.8069590148810624,High
+LD-00337,2025-08-24,North America,Retail,SMB,Website,5.73,4,2,Closed Won,7079.0,1,0.8055674822060765,High
+LD-00272,2026-07-21,North America,Retail,SMB,Referral,3.24,2,2,Closed Won,1929.23,1,0.8042294940298217,High
+LD-00149,2025-12-17,Europe,Education,SMB,Referral,15.21,3,3,Closed Won,1275.51,1,0.8013695100930219,High
+LD-00795,2026-07-03,North America,Education,Mid-Market,Partner,2.43,4,0,Qualified,20704.0,0,0.8004283553530324,High
+LD-00293,2025-12-15,APAC,Professional Services,Mid-Market,Webinar,21.05,4,3,Qualified,3848.18,0,0.7967110017101707,High
+LD-00201,2026-01-06,APAC,Technology,Mid-Market,Referral,11.04,1,2,Closed Won,13989.26,1,0.7961430670251191,High
+LD-00593,2026-04-29,North America,Technology,Mid-Market,Referral,17.74,4,1,Closed Won,2521.51,1,0.7960218798319075,High
+LD-00514,2026-05-28,North America,Technology,Mid-Market,Partner,7.04,4,0,Closed Won,8725.05,1,0.7941726998839432,High
+LD-00517,2025-09-18,North America,Retail,SMB,Website,19.21,8,1,Qualified,6296.43,0,0.790405886732519,High
+LD-00688,2025-05-19,APAC,Retail,Mid-Market,LinkedIn,1.5,5,1,Closed Won,7545.48,1,0.7893953860018353,High
+LD-00587,2026-07-23,North America,Healthcare,Mid-Market,Website,11.49,6,1,Closed Won,12940.42,1,0.7888328927524421,High
+LD-00665,2025-09-09,North America,Healthcare,Mid-Market,Referral,11.62,1,2,Closed Won,9076.09,1,0.7876409400922357,High
+LD-00556,2026-09-01,North America,Technology,Enterprise,Referral,16.2,7,0,Closed Won,50125.74,1,0.7798695167140086,High
+LD-00368,2025-09-28,Europe,Retail,Mid-Market,Partner,10.22,4,1,Closed Won,14947.65,1,0.7790897384553596,High
+LD-00711,2026-03-11,APAC,Technology,Enterprise,Referral,16.98,2,2,Closed Won,46581.12,1,0.7759307857728786,High
+LD-00669,2026-04-20,North America,Healthcare,Mid-Market,Partner,16.29,0,2,Proposal,22262.63,0,0.7758867748880379,High
+LD-00244,2026-09-07,Europe,Healthcare,Enterprise,Webinar,7.53,4,2,Closed Won,27388.79,1,0.7679255982756826,High
+LD-00362,2026-03-11,North America,Healthcare,SMB,Paid Search,13.06,4,3,Closed Won,1189.58,1,0.7678292320693656,High
+LD-00407,2025-04-14,North America,Retail,SMB,Referral,11.11,7,0,Closed Won,2595.59,1,0.7674923376107249,High
+LD-00365,2025-03-13,Europe,Technology,Mid-Market,Website,4.21,5,1,Closed Won,20612.22,1,0.7654782024776066,High
+LD-00075,2025-12-24,North America,Healthcare,Mid-Market,Referral,10.92,4,0,Proposal,23325.44,0,0.7627587920773431,High
+LD-00430,2025-08-29,APAC,Technology,Mid-Market,Partner,5.35,5,0,Closed Won,25443.11,1,0.7618839902357921,High
+LD-00502,2025-07-22,APAC,Retail,SMB,Paid Search,27.22,2,3,Qualified,3747.19,0,0.7608210328145755,High
+LD-00177,2026-05-19,Europe,Retail,Mid-Market,Partner,4.41,5,0,Closed Won,13664.25,1,0.7589757045402328,High
+LD-00076,2025-10-01,North America,Education,Enterprise,Website,10.48,4,2,Closed Won,60381.21,1,0.7576102661772847,High
+LD-00617,2025-10-29,APAC,Retail,SMB,Paid Search,24.55,7,1,Proposal,7112.07,0,0.7558374638431637,High
+LD-00630,2025-04-01,APAC,Professional Services,Mid-Market,Referral,19.45,3,2,Closed Won,3655.57,1,0.7525853228118327,High
+LD-00492,2026-02-16,Europe,Healthcare,Enterprise,Paid Search,20.54,3,3,Proposal,61960.39,0,0.7516949315596555,High
+LD-00648,2026-01-28,Europe,Retail,Mid-Market,Partner,18.11,2,2,New,6580.4,0,0.7487871258080814,High
+LD-00026,2025-01-21,North America,Technology,Mid-Market,Partner,2.6,3,0,Closed Won,12797.8,1,0.7465713164419718,High
+LD-00716,2026-04-20,North America,Professional Services,SMB,Partner,26.87,5,2,Closed Won,3420.82,1,0.745574188872365,High
+LD-00133,2025-12-28,Europe,Professional Services,Mid-Market,Partner,3.37,6,0,Closed Won,6002.35,1,0.7451220315402407,High
+LD-00028,2025-04-12,North America,Technology,SMB,Partner,18.27,7,0,Proposal,3585.74,0,0.7450908820125474,High
+LD-00334,2025-12-01,APAC,Healthcare,Mid-Market,Referral,9.66,5,0,Qualified,19713.13,0,0.7443130341417942,High
+LD-00607,2026-09-06,APAC,Education,Mid-Market,LinkedIn,15.61,2,3,Closed Won,16168.74,1,0.7430710382815844,High
+LD-00404,2026-02-25,North America,Healthcare,Mid-Market,LinkedIn,16.25,7,0,Closed Won,14394.75,1,0.7412538394710863,High
+LD-00151,2025-03-03,APAC,Retail,Mid-Market,LinkedIn,14.08,8,0,Closed Won,3657.1,1,0.7412535602446257,High
+LD-00659,2025-10-09,Europe,Education,SMB,Website,6.27,5,2,Proposal,5260.97,0,0.7394832836388828,High
+LD-00663,2026-07-30,North America,Technology,SMB,Website,14.2,7,1,Closed Won,3981.21,1,0.7367569510082977,High
+LD-00029,2025-08-12,North America,Education,SMB,Partner,3.58,3,1,Qualified,3768.92,0,0.7354145571770992,High
+LD-00079,2026-09-04,Europe,Retail,Enterprise,Referral,10.29,6,0,Closed Won,18015.15,1,0.7350478460478062,High
+LD-00063,2025-05-04,Europe,Healthcare,Mid-Market,Website,4.22,3,2,Closed Won,5681.18,1,0.7344490958834528,High
+LD-00134,2025-11-21,North America,Healthcare,SMB,Website,5.63,6,1,Closed Won,1505.0,1,0.7324745847002354,High
+LD-00033,2026-07-09,North America,Professional Services,Mid-Market,LinkedIn,4.17,0,2,Qualified,17460.77,0,0.7292532117640331,High
+LD-00510,2025-10-25,North America,Education,SMB,LinkedIn,2.34,7,0,Closed Won,2622.57,1,0.7278376361898755,High
+LD-00248,2025-06-08,Europe,Healthcare,Mid-Market,Webinar,7.97,3,2,Closed Won,24618.16,1,0.7277371201099618,High
+LD-00373,2025-01-27,North America,Professional Services,Mid-Market,Paid Search,14.18,3,2,Closed Won,19716.82,1,0.7272780159127761,High
+LD-00756,2026-04-19,North America,Healthcare,Mid-Market,Referral,18.37,5,0,Closed Won,23723.83,1,0.7255630654033409,High
+LD-00793,2025-09-29,North America,Education,SMB,LinkedIn,28.22,4,3,New,4733.05,0,0.7252301888745358,High
+LD-00454,2025-07-09,North America,Retail,Mid-Market,Referral,7.81,3,0,New,7986.6,0,0.7232181620434471,High
+LD-00773,2025-07-21,Europe,Retail,SMB,Partner,6.38,0,3,Closed Won,2640.97,1,0.7213806773242293,High
+LD-00442,2025-09-16,North America,Professional Services,Mid-Market,Referral,18.04,4,0,New,2762.38,0,0.7178105340782506,High
+LD-00759,2026-01-15,North America,Healthcare,Enterprise,Paid Search,3.31,4,1,Closed Won,62670.1,1,0.7176342600536747,High
+LD-00007,2026-07-04,APAC,Healthcare,Enterprise,LinkedIn,20.26,3,3,Closed Won,59814.46,1,0.7163980721386279,High
+LD-00018,2025-10-29,North America,Retail,Mid-Market,LinkedIn,7.99,5,0,Proposal,12392.36,0,0.7132477115059749,High
+LD-00672,2025-08-01,Europe,Technology,Mid-Market,Paid Search,20.27,7,0,Closed Won,15504.33,1,0.7116221909827147,High
+LD-00175,2025-05-03,North America,Professional Services,Mid-Market,LinkedIn,3.39,2,1,Closed Won,7697.77,1,0.7108161992537,High
+LD-00615,2025-06-21,North America,Technology,Enterprise,Referral,14.93,5,0,Closed Lost,51496.37,0,0.71027192425859,High
+LD-00204,2025-05-02,North America,Technology,Mid-Market,Webinar,3.4,5,0,Closed Won,8976.87,1,0.7101313606832168,High
+LD-00147,2026-04-15,North America,Healthcare,Mid-Market,Paid Search,15.37,3,1,Closed Won,17971.81,1,0.705508083525402,High
+LD-00501,2025-10-29,APAC,Technology,Mid-Market,Referral,11.92,4,0,Proposal,10099.43,0,0.7031770795859853,High
+LD-00515,2026-03-04,North America,Technology,SMB,LinkedIn,9.01,5,1,Proposal,3731.09,0,0.7016284403103097,High
+LD-00333,2026-01-14,Europe,Technology,Mid-Market,LinkedIn,41.33,5,2,Proposal,24278.96,0,0.7007647420126394,High
+LD-00376,2026-02-07,North America,Healthcare,SMB,Referral,10.26,5,0,Proposal,1210.03,0,0.7007342987117832,High
+LD-00138,2026-06-15,Europe,Technology,SMB,Referral,2.29,5,0,Qualified,6718.9,0,0.7006870755063789,High
+LD-00052,2026-05-19,North America,Technology,SMB,Partner,13.37,4,1,Qualified,8306.62,0,0.6999202432717607,High
+LD-00649,2025-01-23,Europe,Retail,SMB,Paid Search,29.51,3,2,Closed Lost,7406.39,0,0.6998355312824349,High
+LD-00683,2025-02-07,North America,Retail,SMB,Partner,5.76,4,0,Qualified,8002.39,0,0.6996825733789096,High
+LD-00452,2025-03-06,APAC,Technology,SMB,Referral,4.83,6,0,Proposal,6400.12,0,0.6995254117172003,High
+LD-00674,2026-09-04,Europe,Retail,Mid-Market,Partner,7.19,4,0,Closed Lost,17901.4,0,0.6981970702264403,High
+LD-00374,2025-02-23,North America,Healthcare,SMB,Website,9.55,5,1,Closed Lost,964.03,0,0.6976491018081452,High
+LD-00198,2025-11-17,APAC,Technology,SMB,Referral,19.09,4,2,Qualified,3159.21,0,0.6963512548734333,High
+LD-00049,2025-05-17,Europe,Technology,Enterprise,LinkedIn,14.89,1,3,Closed Won,21214.19,1,0.6961763144898361,High
+LD-00236,2026-01-18,APAC,Healthcare,SMB,Referral,19.11,9,0,Qualified,908.21,0,0.6944007182264851,High
+LD-00654,2025-07-25,North America,Education,Mid-Market,Webinar,13.46,2,2,Proposal,23382.61,0,0.6922095539289321,High
+LD-00140,2025-10-02,North America,Technology,Mid-Market,LinkedIn,7.89,2,1,Proposal,17394.27,0,0.6918219228207566,High
+LD-00459,2025-05-04,APAC,Retail,SMB,Partner,6.27,5,1,Closed Won,7284.5,1,0.6853386546052961,High
+LD-00393,2025-04-24,Europe,Education,SMB,Partner,4.36,3,1,Qualified,1215.17,0,0.6849181604009245,High
+LD-00150,2026-04-14,North America,Professional Services,SMB,Referral,15.45,2,2,Closed Won,8453.14,1,0.6847920131512288,High
+LD-00653,2025-10-28,Europe,Education,SMB,Partner,12.15,1,3,Proposal,7240.7,0,0.6836663049818001,High
+LD-00127,2025-08-22,North America,Technology,SMB,Paid Search,21.43,2,2,New,7051.82,0,0.6835010947030112,High
+LD-00310,2025-11-10,North America,Technology,Enterprise,Partner,7.58,2,0,Qualified,34388.99,0,0.6818805269282423,High
+LD-00106,2026-07-04,Europe,Healthcare,Enterprise,Website,11.31,2,2,Qualified,37303.3,0,0.6813362790056421,High
+LD-00092,2026-04-09,Europe,Education,Enterprise,Referral,22.52,5,1,Closed Won,65328.74,1,0.6809272567631338,High
+LD-00256,2025-10-11,APAC,Healthcare,Enterprise,Paid Search,12.74,3,2,Closed Won,35852.73,1,0.679198072420855,High
+LD-00599,2025-03-08,APAC,Retail,SMB,Paid Search,7.87,6,0,Proposal,3913.2,0,0.6787701085366158,High
+LD-00229,2025-12-09,Europe,Healthcare,Enterprise,Referral,4.28,3,0,Proposal,31269.92,0,0.6779883327289687,High
+LD-00249,2025-11-22,North America,Education,SMB,Partner,11.45,3,1,Closed Lost,5478.81,0,0.6748252244871633,High
+LD-00401,2025-05-12,North America,Retail,Mid-Market,Paid Search,7.6,4,0,Closed Won,5262.82,1,0.674333072402123,High
+LD-00524,2025-04-05,Europe,Healthcare,SMB,Partner,7.66,6,0,Closed Won,1578.79,1,0.6710347719317181,High
+LD-00239,2026-01-16,North America,Professional Services,Mid-Market,Webinar,33.73,7,1,New,10517.44,0,0.6703888115185341,High
+LD-00651,2025-01-07,Europe,Education,SMB,Paid Search,6.03,2,3,Closed Won,8225.63,1,0.6703270937628188,High
+LD-00673,2025-07-14,APAC,Technology,Mid-Market,Webinar,11.01,7,0,Closed Won,17849.23,1,0.669664044987611,High
+LD-00592,2026-07-06,Europe,Education,Mid-Market,Webinar,16.83,6,1,Qualified,20340.93,0,0.6657955528041245,High
+LD-00011,2026-05-17,North America,Technology,SMB,Partner,18.17,3,1,Closed Won,6021.46,1,0.6652858701229926,High
+LD-00276,2025-05-16,Europe,Professional Services,Mid-Market,LinkedIn,2.07,4,0,Qualified,23715.1,0,0.6600274163062111,High
+LD-00675,2026-05-22,Europe,Retail,Enterprise,Webinar,7.63,6,0,Closed Won,65503.2,1,0.65971792082001,High
+LD-00583,2025-06-07,North America,Retail,Mid-Market,Website,12.71,3,1,Closed Won,19059.91,1,0.659037549460181,High
+LD-00636,2026-04-16,North America,Education,Enterprise,Partner,5.15,4,0,Closed Won,50683.75,1,0.6573428211648351,High
+LD-00093,2025-12-02,Europe,Professional Services,SMB,Website,9.93,6,1,Qualified,5269.62,0,0.6562937128182965,High
+LD-00245,2025-10-28,Europe,Technology,SMB,Referral,9.77,3,1,Proposal,6128.62,0,0.6532416047738154,High
+LD-00744,2025-01-16,North America,Technology,SMB,Website,14.46,3,2,Qualified,3000.2,0,0.6529704164895731,High
+LD-00367,2025-05-07,APAC,Education,Mid-Market,Referral,5.22,3,1,Closed Won,18342.58,1,0.649840735077666,Medium
+LD-00098,2026-05-04,North America,Technology,Mid-Market,Website,23.52,4,1,Proposal,16254.34,0,0.6495362615256809,Medium
+LD-00796,2026-02-12,North America,Healthcare,Enterprise,Referral,22.83,3,1,Closed Won,8795.67,1,0.6493916303494183,Medium
+LD-00070,2026-05-08,Europe,Technology,Enterprise,Referral,5.53,3,0,Closed Won,15412.35,1,0.649138235235376,Medium
+LD-00048,2026-03-20,North America,Healthcare,Mid-Market,Referral,26.98,7,0,Closed Won,20650.08,1,0.6482777354744284,Medium
+LD-00297,2026-01-03,APAC,Technology,Mid-Market,Webinar,6.9,1,2,Proposal,16191.16,0,0.6472138471358354,Medium
+LD-00662,2026-02-23,APAC,Retail,Enterprise,Referral,5.61,3,0,Proposal,24292.01,0,0.6448999875628649,Medium
+LD-00375,2026-08-14,North America,Retail,SMB,Webinar,4.56,6,0,Qualified,2516.82,0,0.6442686510922278,Medium
+LD-00644,2026-07-17,North America,Technology,SMB,Referral,34.33,6,1,New,1201.2,0,0.6430072076087906,Medium
+LD-00411,2026-03-12,Europe,Healthcare,SMB,Website,13.44,5,2,Closed Won,1016.94,1,0.6423157838891218,Medium
+LD-00267,2025-10-07,North America,Professional Services,Enterprise,Paid Search,17.88,5,0,Qualified,32602.3,0,0.641851033723533,Medium
+LD-00581,2025-02-06,Europe,Professional Services,Mid-Market,Partner,10.2,2,1,Closed Won,9361.23,1,0.6409141718552709,Medium
+LD-00317,2025-07-30,North America,Technology,Mid-Market,LinkedIn,9.5,3,0,Closed Won,5833.39,1,0.6402838361129584,Medium
+LD-00706,2026-07-23,Europe,Retail,SMB,Partner,17.19,6,0,Closed Won,3282.39,1,0.6397377752381923,Medium
+LD-00686,2025-02-11,North America,Technology,SMB,Referral,6.23,1,1,Closed Won,6610.23,1,0.6397062368980964,Medium
+LD-00747,2025-09-16,North America,Professional Services,Enterprise,Partner,31.94,5,1,Closed Won,21589.36,1,0.6386724800242719,Medium
+LD-00666,2025-11-05,Europe,Healthcare,SMB,Referral,18.59,5,1,Closed Won,1975.64,1,0.6382268363867415,Medium
+LD-00157,2025-01-28,North America,Healthcare,SMB,Website,4.56,2,2,New,6496.91,0,0.6381861916940872,Medium
+LD-00720,2025-05-19,APAC,Technology,Enterprise,Referral,23.78,4,1,Closed Lost,31619.08,0,0.635669602082471,Medium
+LD-00564,2026-03-22,Europe,Technology,SMB,LinkedIn,11.43,7,0,Closed Won,2197.12,1,0.6356137898975498,Medium
+LD-00578,2025-11-18,Europe,Education,Mid-Market,Partner,10.47,2,1,Qualified,25364.07,0,0.6354252251628646,Medium
+LD-00205,2025-09-25,North America,Healthcare,Mid-Market,Website,36.86,2,3,Qualified,24607.9,0,0.6336634672129903,Medium
+LD-00469,2025-03-10,North America,Retail,SMB,Paid Search,15.94,6,1,Proposal,1828.91,0,0.633273171081555,Medium
+LD-00536,2025-12-02,North America,Education,SMB,LinkedIn,3.02,5,0,Proposal,1928.62,0,0.6317607934273338,Medium
+LD-00624,2025-08-26,Europe,Professional Services,SMB,LinkedIn,3.35,4,1,Qualified,4086.32,0,0.6313715374039643,Medium
+LD-00586,2026-08-13,Europe,Technology,SMB,Website,14.78,6,1,Closed Lost,7645.29,0,0.6300015422292409,Medium
+LD-00460,2025-09-24,Europe,Education,SMB,LinkedIn,12.37,3,2,New,1181.67,0,0.6299714616276055,Medium
+LD-00546,2026-03-14,Europe,Retail,Enterprise,Referral,30.41,7,0,Qualified,66672.73,0,0.6280269085222567,Medium
+LD-00467,2026-09-02,Europe,Technology,SMB,Referral,16.66,2,2,Closed Won,2928.32,1,0.6251383148432342,Medium
+LD-00563,2026-05-09,APAC,Retail,SMB,Website,8.51,6,1,Closed Lost,5344.5,0,0.6232909272351822,Medium
+LD-00074,2026-09-02,North America,Professional Services,SMB,LinkedIn,7.18,1,2,Closed Won,1072.39,1,0.6230221944595292,Medium
+LD-00397,2025-11-04,APAC,Technology,SMB,Partner,11.0,3,1,Qualified,6945.83,0,0.6222732288982968,Medium
+LD-00154,2026-04-20,Europe,Technology,Mid-Market,Paid Search,18.28,5,0,Qualified,16069.7,0,0.6216949799484137,Medium
+LD-00761,2026-01-25,Europe,Education,Mid-Market,Paid Search,4.96,3,1,New,17074.77,0,0.6209689132860969,Medium
+LD-00123,2025-09-13,North America,Retail,Mid-Market,Referral,17.34,2,0,Closed Won,5132.97,1,0.6209454585669413,Medium
+LD-00059,2025-04-19,North America,Professional Services,SMB,Referral,5.2,2,1,Closed Lost,3316.98,0,0.620060064185507,Medium
+LD-00111,2026-06-23,Europe,Healthcare,Mid-Market,LinkedIn,11.75,5,0,Closed Won,17664.3,1,0.619735309700765,Medium
+LD-00772,2025-04-16,Europe,Retail,SMB,Partner,14.73,5,0,Closed Won,7671.6,1,0.6190661150288219,Medium
+LD-00622,2025-02-23,Europe,Retail,SMB,Partner,19.11,2,2,Closed Lost,4674.86,0,0.6190646792444103,Medium
+LD-00787,2025-09-04,APAC,Professional Services,Enterprise,Partner,4.54,2,1,Closed Won,16984.8,1,0.6190617226293704,Medium
+LD-00257,2026-02-19,APAC,Education,SMB,Referral,4.5,3,1,Qualified,4709.15,0,0.618847245321696,Medium
+LD-00702,2025-04-17,North America,Education,Mid-Market,Website,14.78,3,1,Closed Won,18553.25,1,0.6172175501091736,Medium
+LD-00286,2026-02-11,Europe,Healthcare,SMB,Partner,4.35,3,0,Closed Won,6965.61,1,0.6160432893232413,Medium
+LD-00354,2025-08-29,Europe,Technology,Enterprise,Website,6.24,5,0,Closed Lost,39659.4,0,0.6159905544687833,Medium
+LD-00078,2026-04-05,Europe,Professional Services,SMB,Website,1.6,4,1,Qualified,2843.14,0,0.6142742568689045,Medium
+LD-00429,2026-01-21,North America,Education,SMB,Webinar,7.26,7,0,Closed Won,2888.99,1,0.6141846180870607,Medium
+LD-00124,2025-06-02,Europe,Retail,Mid-Market,Partner,11.54,3,0,Closed Won,6154.44,1,0.61327658416438,Medium
+LD-00345,2026-08-05,APAC,Professional Services,Mid-Market,Referral,11.63,3,0,Closed Lost,21683.54,0,0.6130485808946128,Medium
+LD-00009,2026-04-15,North America,Retail,SMB,Referral,7.35,3,0,New,5056.17,0,0.6124097785213171,Medium
+LD-00503,2025-02-22,APAC,Healthcare,Mid-Market,Website,17.9,2,2,Closed Won,22396.14,1,0.6118188536523731,Medium
+LD-00062,2026-07-25,Europe,Healthcare,Mid-Market,Partner,17.74,4,0,New,2993.04,0,0.6098907697561975,Medium
+LD-00326,2025-03-17,Europe,Retail,SMB,Partner,18.76,2,2,Closed Won,3667.69,1,0.6095191397789645,Medium
+LD-00634,2025-11-29,North America,Technology,Enterprise,Website,15.95,5,0,Qualified,59976.97,0,0.6087342725794568,Medium
+LD-00550,2026-06-09,Europe,Technology,SMB,Webinar,8.06,5,1,Closed Won,4758.03,1,0.6073934864579084,Medium
+LD-00422,2025-07-01,North America,Technology,SMB,Partner,3.31,2,0,Qualified,5519.71,0,0.6063976281200385,Medium
+LD-00726,2026-06-18,North America,Technology,Enterprise,Website,6.67,4,0,Proposal,38334.79,0,0.6051835409190015,Medium
+LD-00280,2025-10-06,APAC,Professional Services,Mid-Market,Referral,20.58,2,1,Closed Won,13032.23,1,0.6045114850043152,Medium
+LD-00565,2025-05-23,Europe,Retail,Enterprise,Website,19.55,3,2,Qualified,42309.4,0,0.6042962548580011,Medium
+LD-00471,2025-07-23,Europe,Education,Enterprise,Partner,13.06,4,0,Closed Won,41908.92,1,0.603532988378147,Medium
+LD-00619,2025-06-29,North America,Education,Enterprise,Referral,17.93,4,0,Closed Won,30413.72,1,0.6027781286288787,Medium
+LD-00596,2025-08-25,North America,Technology,Mid-Market,LinkedIn,13.71,5,0,Qualified,24238.61,0,0.6018819073496403,Medium
+LD-00010,2026-08-30,Europe,Education,SMB,Paid Search,16.78,3,3,Closed Won,2627.33,1,0.6005248749781705,Medium
+LD-00679,2025-07-30,North America,Retail,Enterprise,LinkedIn,18.38,3,1,Proposal,32852.18,0,0.6002395853075695,Medium
+LD-00670,2025-09-23,Europe,Technology,Enterprise,Referral,13.46,3,0,New,13449.81,0,0.5991390683462989,Medium
+LD-00606,2026-01-22,APAC,Professional Services,Mid-Market,Webinar,20.79,5,1,Closed Won,8606.46,1,0.5990319691203639,Medium
+LD-00436,2026-01-13,North America,Technology,Mid-Market,Partner,8.34,0,1,Closed Won,12347.36,1,0.5989902145539086,Medium
+LD-00025,2026-09-01,APAC,Education,SMB,Paid Search,14.41,5,2,Qualified,6958.36,0,0.5989404730056476,Medium
+LD-00129,2025-08-23,North America,Retail,SMB,Webinar,16.44,6,0,Proposal,5544.64,0,0.5960674132571008,Medium
+LD-00176,2025-07-25,North America,Retail,SMB,Partner,28.49,3,1,Qualified,3523.53,0,0.5959365088854146,Medium
+LD-00072,2026-02-18,Europe,Technology,Mid-Market,Webinar,18.45,2,2,Closed Won,19746.04,1,0.595289184993395,Medium
+LD-00535,2025-05-06,North America,Education,SMB,Partner,7.02,5,0,Closed Won,3395.05,1,0.5937703401573194,Medium
+LD-00067,2026-04-01,Europe,Education,Mid-Market,Webinar,17.81,7,0,Qualified,4922.87,0,0.5933807760413985,Medium
+LD-00664,2026-06-20,North America,Professional Services,SMB,Paid Search,14.07,2,2,Proposal,7752.03,0,0.5932678648113775,Medium
+LD-00697,2025-04-02,APAC,Education,Mid-Market,Website,26.24,5,2,Closed Won,10754.41,1,0.592506302494444,Medium
+LD-00254,2026-04-19,North America,Technology,Mid-Market,Partner,21.51,2,0,Closed Won,3218.82,1,0.5924548173041153,Medium
+LD-00202,2025-10-07,APAC,Retail,Mid-Market,Partner,6.53,2,0,New,4181.0,0,0.5915764618015139,Medium
+LD-00217,2026-05-16,North America,Healthcare,Mid-Market,Website,25.81,4,1,New,19371.64,0,0.5898845090080957,Medium
+LD-00655,2025-08-28,APAC,Professional Services,Enterprise,Partner,20.15,4,0,Qualified,57076.81,0,0.588300046292546,Medium
+LD-00341,2025-05-12,North America,Professional Services,SMB,Website,0.65,2,1,New,5812.85,0,0.5869236782567001,Medium
+LD-00691,2026-03-24,North America,Technology,Enterprise,Webinar,23.86,7,0,Closed Won,27442.27,1,0.5857192414771406,Medium
+LD-00073,2026-06-04,APAC,Education,Mid-Market,Partner,13.6,4,0,Closed Lost,7028.15,0,0.5856674338747544,Medium
+LD-00191,2026-09-01,APAC,Retail,Mid-Market,Webinar,21.58,4,2,Closed Won,24539.2,1,0.5847932440425633,Medium
+LD-00386,2025-12-12,APAC,Education,Enterprise,Partner,17.55,4,1,Closed Won,28454.42,1,0.5835771600553642,Medium
+LD-00474,2025-02-14,North America,Retail,Enterprise,Website,4.87,4,0,New,32956.53,0,0.582376803127762,Medium
+LD-00741,2026-06-26,North America,Education,SMB,Referral,24.92,2,2,Closed Won,6840.18,1,0.5822798346876994,Medium
+LD-00296,2025-11-14,APAC,Professional Services,SMB,Website,14.84,5,2,Closed Won,3115.87,1,0.5800187420610574,Medium
+LD-00494,2025-02-21,North America,Professional Services,SMB,Partner,7.24,2,0,Closed Won,1323.65,1,0.5798636060725336,Medium
+LD-00035,2026-05-21,Europe,Healthcare,Enterprise,Partner,5.05,2,0,Closed Won,16615.1,1,0.5780119994391298,Medium
+LD-00728,2025-12-15,North America,Retail,SMB,Website,17.44,5,1,Closed Won,7289.59,1,0.5776772923421175,Medium
+LD-00262,2026-07-09,APAC,Retail,Enterprise,Referral,3.66,3,0,Closed Won,18455.71,1,0.5761032938072499,Medium
+LD-00171,2026-07-13,North America,Professional Services,Mid-Market,Website,4.39,3,0,Qualified,7946.08,0,0.5757600932316463,Medium
+LD-00419,2026-05-09,North America,Healthcare,Mid-Market,Referral,11.69,0,0,Proposal,14385.43,0,0.5751675151489126,Medium
+LD-00475,2025-12-31,North America,Technology,SMB,Website,0.67,4,0,Closed Won,2371.43,1,0.5751356025923072,Medium
+LD-00339,2026-01-02,North America,Technology,SMB,Partner,7.64,3,0,Closed Won,6357.4,1,0.5749230023776976,Medium
+LD-00192,2025-10-18,North America,Healthcare,SMB,Paid Search,15.72,5,1,Closed Won,2369.03,1,0.5747840262963219,Medium
+LD-00195,2026-02-02,North America,Education,Enterprise,Referral,19.91,3,1,Closed Won,14681.63,1,0.5734327155765481,Medium
+LD-00714,2026-08-25,APAC,Healthcare,SMB,Partner,11.11,5,0,Closed Won,6474.73,1,0.5733642725563145,Medium
+LD-00427,2025-05-08,North America,Retail,Mid-Market,LinkedIn,17.63,4,0,Closed Won,22261.71,1,0.5731949140117377,Medium
+LD-00221,2025-11-07,North America,Education,Enterprise,Webinar,4.67,5,0,Qualified,65484.55,0,0.5720133389523647,Medium
+LD-00385,2025-01-12,North America,Technology,Mid-Market,Website,5.73,2,0,Closed Won,12386.0,1,0.5718924094068084,Medium
+LD-00108,2026-02-03,North America,Technology,SMB,Paid Search,3.07,2,1,Closed Won,3523.15,1,0.5717814703672864,Medium
+LD-00658,2026-05-09,North America,Professional Services,Mid-Market,Website,24.17,4,1,Closed Won,18878.23,1,0.5709044463503802,Medium
+LD-00032,2025-06-08,APAC,Retail,Enterprise,Partner,7.82,2,0,Closed Won,32584.06,1,0.5708419683669006,Medium
+LD-00507,2025-04-20,North America,Retail,Mid-Market,Paid Search,12.56,1,1,Closed Won,5002.25,1,0.5698519290894415,Medium
+LD-00224,2025-08-13,APAC,Retail,Mid-Market,Paid Search,19.65,4,0,Qualified,15741.63,0,0.5696169380434373,Medium
+LD-00488,2026-05-23,North America,Professional Services,SMB,Paid Search,7.44,4,0,New,5367.33,0,0.5682222822615072,Medium
+LD-00013,2025-05-08,Europe,Education,Mid-Market,Referral,16.6,3,0,Proposal,3395.21,0,0.5682095293481478,Medium
+LD-00102,2025-03-28,Europe,Professional Services,Enterprise,Partner,14.67,2,1,Closed Won,59659.23,1,0.5655867209512037,Medium
+LD-00261,2026-04-11,North America,Education,Mid-Market,Webinar,8.36,1,1,Closed Won,9935.48,1,0.5647429622765354,Medium
+LD-00538,2025-01-23,North America,Retail,Mid-Market,Website,1.91,2,0,Closed Won,7925.62,1,0.5647236858917662,Medium
+LD-00794,2025-11-26,North America,Professional Services,SMB,Partner,23.8,6,0,Qualified,3701.93,0,0.5645698687699569,Medium
+LD-00723,2026-06-04,North America,Education,SMB,Referral,19.79,5,0,Qualified,5991.11,0,0.5631975280470034,Medium
+LD-00701,2026-01-10,North America,Healthcare,Enterprise,Paid Search,17.52,5,0,Qualified,41993.3,0,0.5628439439886855,Medium
+LD-00519,2025-12-21,North America,Healthcare,SMB,Website,4.24,3,1,Proposal,7336.01,0,0.5628320734298183,Medium
+LD-00574,2025-06-21,APAC,Education,SMB,Paid Search,4.6,6,1,Closed Won,5415.79,1,0.5625814343115935,Medium
+LD-00608,2025-08-30,North America,Technology,SMB,Website,14.3,6,0,Qualified,5852.26,0,0.5598245597086273,Medium
+LD-00114,2025-08-11,Europe,Education,Enterprise,Website,18.76,8,0,Closed Won,44024.76,1,0.5584957483834325,Medium
+LD-00216,2026-02-18,APAC,Technology,Mid-Market,LinkedIn,27.49,3,1,Qualified,22638.82,0,0.5584809371821654,Medium
+LD-00311,2025-07-02,Europe,Technology,SMB,Paid Search,21.52,3,1,Proposal,6209.78,0,0.5582938823474989,Medium
+LD-00253,2025-02-21,Europe,Professional Services,SMB,Webinar,6.49,6,0,Proposal,1618.12,0,0.5581476130963786,Medium
+LD-00458,2025-10-09,Europe,Education,SMB,Referral,13.68,5,0,New,7016.81,0,0.5567167511557986,Medium
+LD-00791,2026-02-28,North America,Technology,Mid-Market,Website,12.8,3,0,Closed Lost,18305.23,0,0.555734122116701,Medium
+LD-00477,2026-01-17,Europe,Technology,Enterprise,Referral,28.69,6,0,Closed Won,50730.3,1,0.5556842124746069,Medium
+LD-00103,2025-10-22,North America,Technology,SMB,Paid Search,11.49,1,2,Closed Won,1308.01,1,0.5556642112279194,Medium
+LD-00113,2025-10-29,North America,Education,Enterprise,Website,6.55,3,1,Closed Won,46299.73,1,0.5553723411227893,Medium
+LD-00562,2025-04-17,North America,Professional Services,SMB,Paid Search,16.32,3,1,Closed Lost,5487.78,0,0.5551473191876705,Medium
+LD-00086,2025-04-29,North America,Professional Services,SMB,Referral,20.48,4,0,New,7604.25,0,0.5547356530003569,Medium
+LD-00211,2025-11-09,Europe,Healthcare,SMB,Paid Search,12.48,7,0,Closed Won,2059.34,1,0.553987621324691,Medium
+LD-00739,2026-06-24,Europe,Education,Mid-Market,Webinar,11.21,5,0,Qualified,20584.44,0,0.5539569425750895,Medium
+LD-00303,2025-03-26,Europe,Education,Mid-Market,Referral,21.53,2,1,Proposal,10107.15,0,0.5538927611590809,Medium
+LD-00348,2025-12-12,North America,Education,Enterprise,Website,36.85,4,2,Closed Lost,61009.81,0,0.5523761672145602,Medium
+LD-00315,2026-08-24,North America,Education,SMB,Webinar,8.47,6,0,Closed Won,7256.35,1,0.5521131039340144,Medium
+LD-00300,2026-01-23,Europe,Technology,SMB,Webinar,22.42,2,2,Closed Lost,2282.01,0,0.5519969346616082,Medium
+LD-00680,2025-11-16,North America,Retail,Mid-Market,Website,13.57,4,0,Qualified,13343.72,0,0.549707175342544,Medium
+LD-00707,2026-05-13,APAC,Healthcare,SMB,Referral,3.57,5,0,Closed Won,6751.09,1,0.5495663852272549,Medium
+LD-00089,2026-05-10,North America,Technology,Mid-Market,Website,15.61,4,0,Closed Won,4059.16,1,0.5495337258542008,Medium
+LD-00207,2025-12-10,North America,Education,SMB,Partner,19.41,3,1,Closed Won,4142.54,1,0.5472091398941683,Medium
+LD-00465,2026-08-18,Europe,Retail,SMB,Referral,24.88,7,0,Closed Won,5337.19,1,0.5468323987753889,Medium
+LD-00398,2026-07-14,North America,Healthcare,SMB,Referral,21.99,4,0,Closed Won,7310.92,1,0.5465350885131938,Medium
+LD-00012,2025-03-08,APAC,Technology,Mid-Market,Paid Search,12.86,4,0,Closed Won,11054.29,1,0.5449282102789108,Medium
+LD-00736,2025-09-16,Europe,Retail,Mid-Market,Webinar,2.78,3,0,New,7880.82,0,0.5449007674437658,Medium
+LD-00038,2025-03-04,Europe,Education,Enterprise,Partner,10.14,2,0,Closed Lost,47602.69,0,0.5444010448781497,Medium
+LD-00307,2026-05-21,Europe,Technology,SMB,Paid Search,9.91,4,0,New,2095.78,0,0.5423493473860265,Medium
+LD-00657,2026-03-20,APAC,Technology,Enterprise,Partner,24.61,1,1,Proposal,28656.7,0,0.541862338597816,Medium
+LD-00560,2026-01-25,Europe,Technology,SMB,Paid Search,5.77,3,1,Proposal,1389.14,0,0.5416655688160815,Medium
+LD-00196,2026-07-04,North America,Professional Services,SMB,Paid Search,8.52,4,1,Qualified,1774.68,0,0.5386359179272913,Medium
+LD-00635,2026-01-28,North America,Technology,Mid-Market,Paid Search,5.62,1,0,Qualified,9552.06,0,0.5351754573584794,Medium
+LD-00225,2025-04-15,North America,Healthcare,Mid-Market,LinkedIn,22.83,3,0,Qualified,8400.3,0,0.5349135691652696,Medium
+LD-00227,2025-08-22,North America,Education,SMB,LinkedIn,13.54,7,0,Closed Won,883.28,1,0.5348553618163834,Medium
+LD-00437,2026-04-04,North America,Technology,Enterprise,Partner,16.76,1,0,Qualified,20576.25,0,0.5347100784850035,Medium
+LD-00516,2026-04-20,North America,Healthcare,Enterprise,Website,32.68,4,1,Closed Lost,35724.72,0,0.5343776004981092,Medium
+LD-00200,2025-05-25,North America,Professional Services,Mid-Market,Paid Search,7.79,2,0,Closed Won,16359.41,1,0.5342975167322249,Medium
+LD-00186,2025-03-06,Europe,Education,Mid-Market,Referral,11.3,2,0,Proposal,18193.67,0,0.5335678779136377,Medium
+LD-00247,2025-09-14,Europe,Technology,SMB,Partner,24.82,3,1,Proposal,7190.84,0,0.5335178780565862,Medium
+LD-00742,2026-04-17,North America,Professional Services,SMB,Website,17.66,4,1,Proposal,5841.97,0,0.5333303239335752,Medium
+LD-00215,2026-07-20,Europe,Professional Services,Mid-Market,Referral,7.69,1,0,Qualified,19246.4,0,0.5320010327468788,Medium
+LD-00335,2025-12-26,North America,Education,Mid-Market,Referral,10.5,1,0,New,20158.43,0,0.5319368516886617,Medium
+LD-00189,2025-04-22,APAC,Professional Services,Enterprise,LinkedIn,11.76,6,0,Closed Won,26055.41,1,0.531840974165975,Medium
+LD-00518,2025-08-27,APAC,Technology,SMB,Webinar,4.33,4,1,Closed Won,1487.93,1,0.5311260501625821,Medium
+LD-00199,2025-05-11,North America,Education,Mid-Market,Paid Search,14.13,3,0,Proposal,4518.89,0,0.530960512693891,Medium
+LD-00331,2026-04-09,APAC,Education,Mid-Market,Website,6.38,0,2,Qualified,21333.67,0,0.5303990986556555,Medium
+LD-00279,2025-08-05,APAC,Healthcare,Mid-Market,Partner,14.83,2,0,Proposal,21463.89,0,0.5289754414280969,Medium
+LD-00169,2026-08-10,North America,Retail,SMB,Partner,11.79,2,0,Closed Lost,4361.31,0,0.5289669806016872,Medium
+LD-00618,2026-02-10,North America,Retail,Enterprise,Website,9.89,1,1,Qualified,56476.38,0,0.5274520495151455,Medium
+LD-00521,2026-07-28,APAC,Retail,SMB,Paid Search,5.91,3,0,New,2820.87,0,0.5271443963868847,Medium
+LD-00094,2026-03-21,Europe,Technology,Mid-Market,Paid Search,21.74,2,1,Closed Won,14135.77,1,0.5269746756488148,Medium
+LD-00456,2025-01-11,North America,Education,SMB,Paid Search,8.03,4,0,Qualified,2064.06,0,0.5265296901172174,Medium
+LD-00506,2026-06-24,APAC,Education,Mid-Market,Partner,6.0,2,0,Closed Won,7414.34,1,0.5262239649016234,Medium
+LD-00677,2025-08-30,APAC,Professional Services,Mid-Market,Referral,19.94,2,1,Closed Won,9324.62,1,0.5230544157340946,Medium
+LD-00414,2025-02-15,APAC,Professional Services,SMB,Website,14.27,3,2,Closed Won,3597.46,1,0.5229939205662402,Medium
+LD-00005,2026-04-18,North America,Technology,SMB,Webinar,9.27,2,1,Closed Won,6434.61,1,0.5223819502257708,Medium
+LD-00396,2025-09-01,Europe,Technology,Mid-Market,LinkedIn,18.45,2,1,Proposal,22199.98,0,0.5198916357824012,Medium
+LD-00022,2026-01-07,North America,Retail,SMB,Website,8.56,4,0,Qualified,5517.16,0,0.5187250850464672,Medium
+LD-00329,2025-09-27,Europe,Healthcare,SMB,Referral,13.28,2,1,Closed Won,1995.05,1,0.5186986466790369,Medium
+LD-00451,2025-01-21,North America,Technology,Enterprise,Referral,12.34,0,1,Closed Won,10064.98,1,0.5173584561436156,Medium
+LD-00421,2026-01-11,Europe,Technology,Mid-Market,Referral,8.57,2,0,Closed Won,13262.46,1,0.5159099608538487,Medium
+LD-00790,2026-08-09,Europe,Technology,SMB,Referral,16.9,4,0,New,5488.84,0,0.5155072638167536,Medium
+LD-00792,2026-02-16,Europe,Technology,Mid-Market,Website,22.7,5,0,New,2477.67,0,0.5148043505811059,Medium
+LD-00324,2025-02-03,Europe,Technology,SMB,Referral,25.82,3,1,New,4004.72,0,0.5147183404643212,Medium
+LD-00372,2026-08-21,North America,Healthcare,Enterprise,Webinar,17.48,4,0,New,11841.79,0,0.5140573922742262,Medium
+LD-00696,2026-01-13,Europe,Healthcare,SMB,Website,7.64,2,2,New,3460.44,0,0.5128724318083228,Medium
+LD-00413,2025-03-10,North America,Retail,SMB,Partner,13.33,2,0,Qualified,6151.1,0,0.5128554101451784,Medium
+LD-00713,2026-08-08,APAC,Retail,SMB,Partner,14.22,1,1,Closed Won,5952.64,1,0.5121545371875361,Medium
+LD-00671,2025-11-05,North America,Education,Mid-Market,Website,8.58,3,0,Closed Lost,16761.56,0,0.5118329983243641,Medium
+LD-00001,2025-09-27,APAC,Healthcare,Enterprise,LinkedIn,13.57,4,0,Qualified,18318.95,0,0.5098537271935496,Medium
+LD-00444,2026-01-08,North America,Technology,Enterprise,Website,15.83,1,1,Qualified,55178.5,0,0.5090384674726668,Medium
+LD-00289,2026-04-09,Europe,Retail,Enterprise,Website,4.82,1,1,New,16914.71,0,0.5082561779057829,Medium
+LD-00758,2025-09-16,APAC,Retail,SMB,Website,5.86,2,1,Proposal,921.56,0,0.5081595005141191,Medium
+LD-00461,2026-03-06,Europe,Technology,Enterprise,Referral,12.26,2,0,Proposal,32756.99,0,0.507486838932414,Medium
+LD-00369,2025-12-15,North America,Education,SMB,Webinar,4.88,5,0,New,7248.47,0,0.5074090191677741,Medium
+LD-00505,2025-05-06,Europe,Education,Mid-Market,Referral,33.49,6,0,Closed Won,20333.85,1,0.5050559793379363,Medium
+LD-00433,2025-03-27,Europe,Technology,SMB,LinkedIn,11.1,5,0,Closed Won,2844.54,1,0.5047529305082082,Medium
+LD-00023,2025-12-04,APAC,Professional Services,Mid-Market,Webinar,5.01,3,0,New,22439.94,0,0.5044980318745885,Medium
+LD-00145,2025-06-11,Europe,Professional Services,Mid-Market,LinkedIn,3.38,3,0,Closed Lost,9176.17,0,0.5039569369857474,Medium
+LD-00553,2025-11-19,North America,Professional Services,Mid-Market,Website,29.61,3,1,Proposal,13650.07,0,0.5038868268936245,Medium
+LD-00621,2025-12-21,APAC,Healthcare,SMB,Referral,1.42,3,0,Qualified,2388.07,0,0.5036376953623398,Medium
+LD-00746,2025-02-02,Europe,Professional Services,SMB,Partner,16.03,5,0,Closed Won,2199.12,1,0.5035748257311214,Medium
+LD-00752,2025-01-03,North America,Professional Services,Enterprise,LinkedIn,6.03,2,0,Closed Won,33578.6,1,0.5035297177928116,Medium
+LD-00638,2026-06-13,Europe,Retail,SMB,Website,5.97,5,0,Qualified,8372.35,0,0.5034899015877202,Medium
+LD-00614,2025-04-02,APAC,Education,SMB,Partner,12.05,2,1,New,7314.13,0,0.5032038661764483,Medium
+LD-00684,2026-03-24,Europe,Technology,Mid-Market,Webinar,10.97,1,1,Proposal,3977.53,0,0.503151511359137,Medium
+LD-00682,2026-03-16,North America,Technology,SMB,Website,8.41,4,0,Closed Lost,1941.46,0,0.5012137105459106,Medium
+LD-00008,2025-09-04,APAC,Technology,SMB,Referral,12.15,3,0,Closed Won,5337.7,1,0.5012017411444908,Medium
+LD-00066,2026-09-03,Europe,Education,Enterprise,Partner,26.42,3,1,Closed Won,9374.78,1,0.5011749131178131,Medium
+LD-00270,2026-09-12,North America,Professional Services,Mid-Market,LinkedIn,18.54,3,0,New,12064.55,0,0.500938311169294,Medium
+LD-00423,2025-06-11,North America,Education,SMB,Website,16.54,6,0,Proposal,7619.32,0,0.5005329460909719,Medium
+LD-00484,2026-08-11,North America,Healthcare,SMB,Referral,20.45,5,0,Closed Won,4126.16,1,0.49981498684614134,Medium
+LD-00779,2025-11-06,APAC,Education,SMB,Website,12.98,2,2,Closed Lost,8129.3,0,0.4992962958703369,Medium
+LD-00350,2025-08-11,North America,Education,Enterprise,Website,13.36,5,0,Closed Won,8561.3,1,0.49885839539510085,Medium
+LD-00400,2026-06-28,Europe,Healthcare,SMB,Webinar,3.9,5,0,Qualified,5605.29,0,0.498633662087772,Medium
+LD-00783,2025-04-06,Europe,Professional Services,SMB,LinkedIn,6.41,2,1,Qualified,3618.61,0,0.4982500262460346,Medium
+LD-00004,2026-08-12,Europe,Retail,Mid-Market,Paid Search,14.54,4,0,Closed Won,25469.37,1,0.4978849096122307,Medium
+LD-00082,2026-03-30,Europe,Retail,Mid-Market,Website,27.09,0,3,Qualified,23916.49,0,0.49771558351199047,Medium
+LD-00178,2026-04-26,APAC,Professional Services,SMB,Webinar,1.53,5,0,Closed Won,2874.66,1,0.49730612890621806,Medium
+LD-00457,2026-05-05,APAC,Healthcare,Enterprise,Partner,14.97,2,1,Qualified,55054.12,0,0.4965312188016679,Medium
+LD-00478,2025-08-31,Europe,Technology,SMB,Referral,14.81,4,0,Closed Won,5366.05,1,0.49572140972639234,Medium
+LD-00613,2025-03-29,APAC,Education,Enterprise,Webinar,18.6,4,1,New,25298.61,0,0.4955005259155902,Medium
+LD-00065,2025-08-06,Europe,Technology,Enterprise,Website,13.55,5,0,Closed Won,14004.05,1,0.4924106628717099,Medium
+LD-00647,2025-04-12,North America,Education,SMB,LinkedIn,30.87,6,1,New,6191.35,0,0.49234524169233995,Medium
+LD-00777,2026-03-29,Europe,Education,Enterprise,Webinar,23.83,7,0,New,44412.54,0,0.49090991522042315,Medium
+LD-00448,2026-02-05,Europe,Technology,Mid-Market,Website,4.19,3,0,Closed Won,16313.29,1,0.4906185833093194,Medium
+LD-00382,2025-08-15,APAC,Technology,SMB,Website,10.18,6,0,Proposal,3031.03,0,0.4904560731802466,Medium
+LD-00652,2025-07-22,APAC,Retail,Mid-Market,Website,15.82,4,0,Closed Lost,5129.49,0,0.48987243200855857,Medium
+LD-00633,2025-12-17,North America,Technology,SMB,Website,3.06,1,1,Closed Won,7288.68,1,0.48979009120478456,Medium
+LD-00349,2025-05-06,Europe,Retail,SMB,LinkedIn,26.3,3,1,New,1818.01,0,0.4896581393403471,Medium
+LD-00717,2025-10-05,Europe,Technology,SMB,Website,8.06,3,1,Proposal,2082.47,0,0.4893818967845726,Medium
+LD-00745,2025-05-15,Europe,Retail,Mid-Market,Webinar,20.52,5,0,Closed Won,13258.09,1,0.48926819655462506,Medium
+LD-00271,2025-01-29,North America,Education,SMB,Partner,17.48,3,0,Proposal,1111.07,0,0.48918529087957174,Medium
+LD-00144,2026-09-08,Europe,Professional Services,Enterprise,Website,19.69,3,1,Proposal,21694.3,0,0.48906634065358046,Medium
+LD-00432,2025-03-13,APAC,Retail,SMB,LinkedIn,17.11,1,2,New,1747.43,0,0.48883341987804985,Medium
+LD-00628,2025-04-01,North America,Technology,SMB,Webinar,9.7,4,0,Closed Won,5817.86,1,0.4887657483576125,Medium
+LD-00119,2026-02-04,Europe,Professional Services,Mid-Market,LinkedIn,13.43,3,0,Closed Won,19389.49,1,0.4871668090229012,Medium
+LD-00724,2026-05-25,APAC,Healthcare,SMB,LinkedIn,0.22,3,0,Closed Lost,5986.25,0,0.4861801049527663,Medium
+LD-00250,2025-05-27,Europe,Professional Services,Mid-Market,Webinar,8.5,1,1,Qualified,24495.34,0,0.48391051637777854,Medium
+LD-00733,2025-10-20,North America,Retail,Mid-Market,Website,15.58,3,0,Proposal,13631.13,0,0.48144045581222705,Medium
+LD-00729,2025-07-21,Europe,Technology,Mid-Market,Partner,27.66,2,0,Qualified,24674.5,0,0.48137246532969813,Medium
+LD-00116,2026-03-25,APAC,Education,Mid-Market,Webinar,0.55,3,0,Closed Lost,6430.09,0,0.4801079013357681,Medium
+LD-00060,2026-06-12,North America,Retail,SMB,LinkedIn,6.95,3,0,Closed Won,3051.88,1,0.47945919390250163,Medium
+LD-00021,2025-07-30,APAC,Technology,SMB,Website,17.79,5,1,New,5937.06,0,0.4785173592206012,Medium
+LD-00476,2025-08-01,North America,Professional Services,SMB,Website,10.32,4,0,Qualified,8200.23,0,0.4780123061202709,Medium
+LD-00220,2025-06-09,Europe,Professional Services,Mid-Market,Paid Search,22.72,5,0,Qualified,25212.48,0,0.4780116850979339,Medium
+LD-00722,2025-11-15,Europe,Retail,SMB,Referral,17.52,3,0,Qualified,6498.7,0,0.47772954598037076,Medium
+LD-00360,2026-04-03,Europe,Healthcare,Mid-Market,LinkedIn,17.26,3,0,Qualified,8725.22,0,0.47771894783237295,Medium
+LD-00786,2026-04-02,North America,Education,Mid-Market,Website,8.35,2,0,Closed Lost,20518.62,0,0.4769544045297484,Medium
+LD-00141,2025-07-31,Europe,Professional Services,SMB,LinkedIn,3.5,4,0,Qualified,1390.43,0,0.47686198608252606,Medium
+LD-00540,2026-07-11,APAC,Professional Services,Mid-Market,Website,11.53,4,0,Qualified,10380.58,0,0.47659145713148077,Medium
+LD-00534,2025-05-03,Europe,Education,Enterprise,Paid Search,6.03,0,1,Closed Lost,15321.71,0,0.4756332650116686,Medium
+LD-00233,2025-08-31,APAC,Retail,SMB,Paid Search,16.19,5,1,Closed Won,1606.95,1,0.4756261114536063,Medium
+LD-00732,2026-03-09,North America,Technology,SMB,Paid Search,10.68,2,1,Qualified,8484.56,0,0.4755271141861489,Medium
+LD-00424,2025-09-01,North America,Healthcare,SMB,Paid Search,8.21,2,1,Closed Won,3123.2,1,0.4753707688109626,Medium
+LD-00278,2025-06-21,Europe,Retail,SMB,Webinar,21.24,3,2,Closed Won,1625.34,1,0.47504019937971986,Medium
+LD-00319,2026-03-03,North America,Professional Services,Mid-Market,Website,18.48,1,1,Qualified,20570.14,0,0.4747550818909371,Medium
+LD-00708,2026-07-14,APAC,Retail,SMB,Partner,18.1,4,0,Closed Won,2250.41,1,0.4746655919679609,Medium
+LD-00228,2026-05-14,Europe,Professional Services,SMB,Referral,15.99,4,0,New,2551.29,0,0.47423779591978515,Medium
+LD-00483,2026-03-14,Europe,Professional Services,Mid-Market,LinkedIn,7.53,2,0,Proposal,5943.32,0,0.4731386217593008,Medium
+LD-00081,2026-08-15,Europe,Professional Services,Mid-Market,LinkedIn,32.07,1,2,Closed Lost,8175.21,0,0.4719381021051028,Medium
+LD-00115,2026-04-15,North America,Education,SMB,Website,7.26,5,0,Closed Won,928.37,1,0.47072464826823324,Medium
+LD-00576,2026-01-15,Europe,Technology,Mid-Market,Webinar,18.43,4,0,Proposal,17530.97,0,0.47019795884001947,Medium
+LD-00197,2026-02-21,Europe,Healthcare,Mid-Market,Website,17.98,3,0,New,11812.11,0,0.46871048849284874,Medium
+LD-00603,2025-01-05,APAC,Education,Enterprise,Website,20.67,4,1,Closed Lost,58400.54,0,0.46773627774304727,Medium
+LD-00763,2025-09-02,North America,Education,SMB,Website,8.67,6,0,Closed Won,4287.53,1,0.4668487254769606,Medium
+LD-00698,2025-11-07,Europe,Healthcare,SMB,Referral,12.43,4,0,Closed Won,8104.25,1,0.46665763319578335,Medium
+LD-00568,2025-02-20,North America,Technology,SMB,Referral,35.89,5,0,Proposal,7221.85,0,0.4656416453869301,Medium
+LD-00384,2025-01-27,Europe,Technology,SMB,Referral,3.94,2,0,New,6454.46,0,0.46519992838491875,Medium
+LD-00504,2026-05-12,Europe,Professional Services,Enterprise,Paid Search,5.75,2,0,New,66288.04,0,0.4644677764482549,Medium
+LD-00643,2025-11-02,North America,Technology,SMB,Webinar,13.44,4,0,Qualified,1161.54,0,0.46423557577238284,Medium
+LD-00294,2025-08-02,North America,Professional Services,SMB,Paid Search,11.34,3,0,Qualified,1304.22,0,0.46333247728719784,Medium
+LD-00585,2025-04-25,APAC,Education,SMB,Website,6.87,6,0,Qualified,6206.11,0,0.4633115008531443,Medium
+LD-00391,2025-06-19,Europe,Professional Services,SMB,Webinar,3.58,4,0,Closed Won,1099.44,1,0.4626773920550104,Medium
+LD-00690,2025-01-09,Europe,Retail,SMB,Paid Search,28.33,4,0,New,4702.49,0,0.4620814063653276,Medium
+LD-00435,2025-10-14,North America,Technology,SMB,Partner,27.14,1,1,Qualified,8392.66,0,0.4600553997248871,Medium
+LD-00693,2025-08-13,North America,Healthcare,Mid-Market,Webinar,6.0,0,0,Qualified,7629.78,0,0.4598941199856985,Medium
+LD-00266,2025-08-31,North America,Education,Enterprise,Webinar,22.74,3,1,Proposal,9926.49,0,0.4581213469172668,Medium
+LD-00180,2025-05-21,APAC,Technology,SMB,Paid Search,9.48,5,0,Proposal,7563.79,0,0.45682852049274875,Medium
+LD-00037,2025-11-13,North America,Healthcare,SMB,LinkedIn,11.99,4,0,Closed Won,4210.8,1,0.4555775703051211,Medium
+LD-00415,2026-03-16,North America,Professional Services,SMB,Website,7.57,3,0,Proposal,922.76,0,0.4544897089649621,Medium
+LD-00463,2025-06-28,APAC,Professional Services,SMB,Referral,18.5,2,1,Closed Won,3596.79,1,0.45423612909621713,Medium
+LD-00623,2026-04-03,APAC,Retail,SMB,LinkedIn,12.64,5,0,Qualified,1710.46,0,0.4541627684512698,Medium
+LD-00402,2025-07-20,APAC,Retail,SMB,LinkedIn,23.25,5,1,Qualified,6182.03,0,0.45394215510472713,Medium
+LD-00491,2025-04-02,Europe,Retail,SMB,Website,35.09,5,2,Closed Won,3283.44,1,0.4538227885799421,Medium
+LD-00109,2025-04-19,North America,Professional Services,Enterprise,LinkedIn,23.38,3,0,Proposal,31541.4,0,0.45221065129232957,Medium
+LD-00285,2026-02-18,Europe,Education,SMB,Referral,13.14,4,0,Qualified,2122.06,0,0.45145238816871097,Medium
+LD-00045,2026-09-06,APAC,Technology,SMB,LinkedIn,5.9,4,0,Qualified,3528.05,0,0.45137363779216677,Medium
+LD-00712,2025-06-02,Europe,Technology,SMB,Website,6.25,4,0,Proposal,2154.8,0,0.4496473447884371,Medium
+LD-00627,2025-06-25,APAC,Technology,Mid-Market,Website,3.51,2,0,Closed Lost,13086.35,0,0.4496341670377897,Medium
+LD-00128,2026-01-27,North America,Education,Enterprise,Paid Search,6.26,1,0,New,14319.43,0,0.44815487203732524,Medium
+LD-00687,2025-11-10,Europe,Education,Enterprise,Website,4.12,4,0,Closed Won,7130.79,1,0.44787216403281005,Medium
+LD-00798,2025-01-26,North America,Technology,SMB,Website,7.25,3,0,Qualified,5575.61,0,0.44731576183808036,Medium
+LD-00764,2025-05-06,North America,Education,Enterprise,Partner,8.61,2,0,Closed Lost,36101.97,0,0.44727194706573475,Medium
+LD-00771,2026-03-12,North America,Professional Services,SMB,Paid Search,13.16,3,0,Closed Won,3631.55,1,0.44645695608448827,Medium
+LD-00243,2025-06-21,North America,Healthcare,SMB,LinkedIn,13.61,2,1,Closed Lost,1950.3,0,0.443713779012917,Medium
+LD-00416,2026-01-17,North America,Retail,SMB,LinkedIn,8.49,3,0,Closed Won,8407.77,1,0.44331791691908595,Medium
+LD-00533,2026-07-09,Europe,Retail,Enterprise,LinkedIn,24.22,4,0,Proposal,59222.53,0,0.4431029969931082,Medium
+LD-00346,2026-07-27,APAC,Professional Services,Enterprise,Webinar,10.09,3,0,Proposal,16184.64,0,0.44252511158403746,Medium
+LD-00188,2025-05-29,North America,Technology,Mid-Market,Website,27.01,3,0,Qualified,6686.2,0,0.44104609250220994,Medium
+LD-00408,2026-04-21,APAC,Retail,SMB,Partner,16.13,0,1,New,6472.21,0,0.4406141223444677,Medium
+LD-00637,2025-12-14,Europe,Technology,SMB,Partner,14.69,2,0,New,5245.91,0,0.44050977292872606,Medium
+LD-00355,2025-10-29,Europe,Retail,Enterprise,Paid Search,12.26,3,0,Proposal,27150.61,0,0.4403905004707466,Medium
+LD-00031,2026-03-11,APAC,Retail,SMB,Webinar,4.14,2,1,Closed Won,1622.36,1,0.4390384220493932,Medium
+LD-00241,2026-07-07,APAC,Technology,SMB,Partner,23.99,5,0,New,4741.09,0,0.4389281025760421,Medium
+LD-00165,2025-11-03,Europe,Education,SMB,LinkedIn,3.24,5,0,Closed Won,2623.81,1,0.4382738218039938,Medium
+LD-00170,2026-03-23,APAC,Technology,Mid-Market,Paid Search,15.07,3,0,Qualified,20429.65,0,0.4363014433096255,Medium
+LD-00193,2026-05-06,North America,Education,SMB,Partner,12.22,1,0,Closed Won,1281.41,1,0.43620638849341675,Medium
+LD-00525,2026-08-10,North America,Professional Services,SMB,Website,9.39,4,0,Closed Won,5715.72,1,0.4354666422358746,Medium
+LD-00014,2026-05-09,APAC,Retail,SMB,LinkedIn,6.6,3,0,Qualified,7083.68,0,0.4354399064560378,Medium
+LD-00313,2026-03-15,North America,Retail,Enterprise,Website,25.4,4,0,Closed Won,60059.37,1,0.43503357935651327,Medium
+LD-00344,2025-09-30,Europe,Education,SMB,Webinar,11.1,4,1,New,6135.33,0,0.4346438911670313,Medium
+LD-00485,2025-10-03,North America,Education,Mid-Market,LinkedIn,20.43,4,0,Closed Won,12933.01,1,0.43441127128614176,Medium
+LD-00522,2026-06-16,North America,Retail,SMB,Website,19.82,3,1,New,8450.64,0,0.4343649214253884,Medium
+LD-00268,2025-02-03,North America,Healthcare,SMB,Website,44.23,1,3,Closed Lost,8245.58,0,0.4337329637266571,Medium
+LD-00569,2025-03-12,North America,Technology,SMB,LinkedIn,17.21,3,0,Closed Won,4048.89,1,0.43188841457040855,Medium
+LD-00785,2025-08-07,APAC,Retail,SMB,Website,8.54,1,1,Qualified,3506.34,0,0.4312063332781838,Medium
+LD-00166,2025-06-06,North America,Retail,SMB,Referral,44.79,4,1,Closed Won,4578.08,1,0.43092502192081544,Medium
+LD-00528,2025-02-05,APAC,Retail,SMB,LinkedIn,14.83,6,0,New,828.82,0,0.43040253091192665,Medium
+LD-00135,2025-11-10,Europe,Healthcare,Enterprise,Paid Search,7.33,2,0,Qualified,61052.25,0,0.4301018983494955,Medium
+LD-00625,2025-09-12,APAC,Professional Services,Enterprise,Referral,5.29,2,0,Proposal,38454.53,0,0.42974104156559034,Medium
+LD-00390,2025-09-24,APAC,Healthcare,SMB,Referral,5.77,2,0,New,3428.56,0,0.42970348189356045,Medium
+LD-00656,2025-04-02,North America,Technology,SMB,LinkedIn,15.93,1,1,New,7028.08,0,0.42952680601954524,Medium
+LD-00543,2025-10-05,APAC,Retail,Mid-Market,Webinar,17.31,3,0,Closed Lost,21394.13,0,0.4295185638685507,Medium
+LD-00727,2025-08-09,North America,Professional Services,SMB,LinkedIn,12.97,3,0,Closed Lost,2323.19,0,0.42921927187296516,Medium
+LD-00495,2026-02-02,APAC,Professional Services,Enterprise,Paid Search,29.01,5,0,Closed Lost,26984.19,0,0.4279512072592319,Medium
+LD-00718,2026-02-22,North America,Education,Mid-Market,Partner,41.33,4,0,Closed Won,9098.09,1,0.426769758202084,Medium
+LD-00053,2025-01-18,APAC,Education,SMB,Partner,4.47,3,0,Closed Lost,6813.97,0,0.42570648815204987,Medium
+LD-00061,2025-08-01,Europe,Healthcare,SMB,Webinar,16.82,3,1,Closed Won,6321.93,1,0.4254760500289781,Medium
+LD-00184,2025-07-19,North America,Retail,SMB,Website,14.94,2,1,Closed Won,1852.33,1,0.42488637459339185,Medium
+LD-00213,2026-01-26,North America,Retail,Mid-Market,LinkedIn,37.74,4,0,Proposal,13705.2,0,0.42487625950035385,Medium
+LD-00069,2025-12-09,North America,Technology,SMB,LinkedIn,10.82,3,0,New,1872.8,0,0.42453087009640045,Medium
+LD-00246,2025-04-19,APAC,Professional Services,Mid-Market,Paid Search,15.41,4,0,Qualified,3421.75,0,0.4241917504274545,Medium
+LD-00642,2026-01-25,APAC,Technology,SMB,Paid Search,9.22,4,0,New,3169.05,0,0.42403512359712786,Medium
+LD-00282,2025-07-20,North America,Education,Mid-Market,Webinar,16.93,3,0,Qualified,9471.45,0,0.42400095213728844,Medium
+LD-00104,2026-01-29,APAC,Retail,Mid-Market,Webinar,13.65,2,1,Closed Won,11583.89,1,0.4239831182045206,Medium
+LD-00161,2025-01-15,North America,Retail,SMB,Partner,14.67,1,0,Proposal,4654.21,0,0.4235825942998532,Medium
+LD-00284,2025-01-14,North America,Education,Mid-Market,LinkedIn,32.89,3,1,Closed Won,23728.54,1,0.42348915707198775,Medium
+LD-00159,2025-09-05,APAC,Retail,Enterprise,LinkedIn,11.29,2,0,New,55226.16,0,0.42231960585532236,Medium
+LD-00264,2025-02-07,North America,Retail,SMB,Website,14.54,4,0,Closed Won,4777.61,1,0.4220181671776574,Medium
+LD-00719,2025-12-10,Europe,Technology,SMB,Referral,18.02,3,0,Qualified,6681.48,0,0.4219732229563575,Medium
+LD-00582,2025-06-28,Europe,Technology,Enterprise,Referral,7.88,0,0,Closed Lost,30288.61,0,0.42119754392358455,Medium
+LD-00631,2026-02-26,APAC,Education,SMB,Webinar,22.78,6,1,Closed Won,1534.12,1,0.4186037132762222,Medium
+LD-00480,2026-03-20,Europe,Retail,SMB,Website,7.18,4,0,Closed Won,4987.8,1,0.41757133344100417,Medium
+LD-00600,2026-05-17,Europe,Professional Services,Mid-Market,Website,3.59,1,0,Closed Won,12837.09,1,0.41708532929816666,Medium
+LD-00182,2026-08-07,APAC,Education,Mid-Market,Webinar,25.01,3,1,Proposal,9025.99,0,0.41676946179772884,Medium
+LD-00558,2025-01-14,Europe,Retail,SMB,Website,14.32,5,0,New,8275.63,0,0.41675331383626074,Medium
+LD-00685,2026-01-10,Europe,Healthcare,SMB,Webinar,6.63,3,0,Qualified,5344.12,0,0.41598602040023,Medium
+LD-00359,2025-01-29,Europe,Professional Services,Mid-Market,Partner,4.07,0,0,Closed Won,9820.75,1,0.4158668412595753,Medium
+LD-00275,2026-08-02,Europe,Education,Enterprise,LinkedIn,20.12,1,1,Proposal,38355.33,0,0.41564217743650983,Medium
+LD-00571,2026-05-21,North America,Technology,SMB,LinkedIn,8.19,1,0,Qualified,5134.12,0,0.4154469575463613,Medium
+LD-00269,2025-07-16,North America,Technology,SMB,LinkedIn,14.04,3,0,Proposal,1212.87,0,0.4151408332284542,Medium
+LD-00325,2026-01-28,APAC,Professional Services,SMB,Website,9.96,3,1,Closed Lost,6004.12,0,0.4145885706968238,Medium
+LD-00255,2025-02-18,North America,Professional Services,Mid-Market,LinkedIn,30.09,1,1,Closed Lost,8048.05,0,0.41437501354185274,Medium
+LD-00529,2025-03-06,APAC,Professional Services,SMB,Referral,54.67,9,1,Closed Won,1409.54,1,0.4143203621260109,Medium
+LD-00322,2026-07-27,Europe,Technology,SMB,Webinar,13.34,2,1,New,2129.64,0,0.4140259629820505,Medium
+LD-00703,2026-02-25,North America,Professional Services,SMB,Paid Search,5.02,2,0,Closed Lost,5718.26,0,0.4134502013985997,Medium
+LD-00511,2025-09-16,North America,Professional Services,SMB,Partner,45.99,6,0,Closed Lost,7738.02,0,0.41216501584872833,Medium
+LD-00043,2025-07-05,Europe,Retail,SMB,Website,9.1,4,0,Closed Lost,8149.4,0,0.41198729565846925,Medium
+LD-00077,2026-02-09,North America,Professional Services,Mid-Market,Website,5.31,0,0,Closed Won,6669.32,1,0.41178827570864623,Medium
+LD-00449,2025-02-13,North America,Education,SMB,Webinar,6.73,3,0,Qualified,5248.07,0,0.4113311640866391,Medium
+LD-00158,2025-10-31,Europe,Retail,Enterprise,Website,8.33,2,0,New,14850.19,0,0.40988923062159144,Medium
+LD-00132,2025-09-25,APAC,Professional Services,SMB,Partner,13.76,3,0,Proposal,1413.81,0,0.4095790940256883,Medium
+LD-00537,2025-12-06,Europe,Technology,SMB,Referral,17.52,2,0,Qualified,3007.53,0,0.4092855777318655,Medium
+LD-00306,2025-07-17,Europe,Healthcare,SMB,LinkedIn,10.5,2,0,Proposal,6237.31,0,0.4084166623720132,Medium
+LD-00164,2025-06-02,North America,Technology,SMB,LinkedIn,9.18,0,1,Closed Won,4365.95,1,0.40763424065436815,Medium
+LD-00678,2026-03-24,Europe,Education,SMB,Partner,9.35,1,0,New,5275.43,0,0.4075701627643768,Medium
+LD-00760,2025-10-18,Europe,Education,SMB,Referral,5.07,2,0,New,7402.47,0,0.40738931292694713,Medium
+LD-00071,2026-01-24,North America,Healthcare,SMB,Referral,37.86,5,0,Qualified,2573.31,0,0.406320646074521,Medium
+LD-00431,2026-02-11,APAC,Technology,SMB,Website,30.19,7,0,Proposal,5299.83,0,0.4061128254766638,Medium
+LD-00412,2025-04-05,Europe,Education,SMB,Webinar,7.79,3,1,New,2110.9,0,0.405232897614566,Medium
+LD-00572,2026-09-09,APAC,Education,SMB,Partner,7.3,2,0,Qualified,5135.08,0,0.40499247259175236,Medium
+LD-00366,2025-07-21,Europe,Education,SMB,Paid Search,14.96,3,1,Qualified,2770.64,0,0.40445841528913334,Medium
+LD-00057,2025-07-21,Europe,Healthcare,SMB,LinkedIn,20.37,5,0,New,4488.56,0,0.4039102867650526,Medium
+LD-00559,2025-01-11,Europe,Healthcare,SMB,Website,5.37,4,0,New,6404.46,0,0.4038907007097401,Medium
+LD-00095,2025-02-19,North America,Healthcare,Mid-Market,Paid Search,15.46,2,0,Closed Won,12226.67,1,0.40331026917466184,Medium
+LD-00316,2025-12-25,North America,Technology,SMB,Website,23.29,2,1,Closed Won,6315.93,1,0.40275428845714034,Medium
+LD-00527,2025-12-26,APAC,Professional Services,SMB,Partner,7.39,1,0,Qualified,1507.13,0,0.40213115471732097,Medium
+LD-00050,2026-01-19,North America,Education,Mid-Market,LinkedIn,2.33,0,0,New,8930.09,0,0.40171319308829667,Medium
+LD-00710,2026-02-28,Europe,Healthcare,Enterprise,Paid Search,22.34,4,0,New,44930.51,0,0.40152020631198626,Medium
+LD-00259,2025-06-05,North America,Retail,SMB,Website,4.24,2,0,Qualified,5518.6,0,0.3995691596177189,Medium
+LD-00274,2025-12-29,Europe,Education,Enterprise,LinkedIn,15.45,1,1,Closed Won,16102.83,1,0.39847532767815463,Medium
+LD-00462,2026-04-01,North America,Professional Services,SMB,LinkedIn,25.23,5,0,Closed Won,7321.27,1,0.39820652531984135,Medium
+LD-00640,2026-04-11,APAC,Education,SMB,Partner,8.08,2,0,Qualified,5018.68,0,0.3979832661680905,Medium
+LD-00143,2025-10-02,APAC,Technology,SMB,Referral,10.57,2,0,New,1543.2,0,0.3975792414114965,Medium
+LD-00753,2026-05-04,North America,Professional Services,SMB,Referral,20.97,2,0,Qualified,2855.43,0,0.397030337457265,Medium
+LD-00370,2025-04-15,APAC,Technology,SMB,Paid Search,5.04,3,0,New,8194.92,0,0.39693391595078853,Medium
+LD-00788,2025-10-04,North America,Retail,SMB,Webinar,12.1,3,0,New,2468.37,0,0.39654496456174276,Medium
+LD-00016,2025-01-08,North America,Education,SMB,Website,7.46,3,0,Qualified,5976.71,0,0.39459998713142,Medium
+LD-00283,2026-05-07,North America,Education,SMB,Website,18.85,5,0,Qualified,5632.0,0,0.3944689893518309,Medium
+LD-00705,2025-07-14,North America,Education,SMB,Partner,34.39,4,0,Closed Won,5665.3,1,0.3944151012141597,Medium
+LD-00194,2025-06-05,APAC,Technology,Mid-Market,Website,20.37,4,0,Closed Lost,10554.64,0,0.39364210530418,Medium
+LD-00288,2026-01-16,North America,Healthcare,SMB,Partner,12.37,2,0,Closed Won,7059.69,1,0.39335814180107226,Medium
+LD-00737,2025-11-22,North America,Healthcare,Enterprise,Webinar,12.24,1,0,Proposal,9300.71,0,0.3926885290791077,Medium
+LD-00409,2025-03-29,North America,Professional Services,SMB,Website,30.89,4,1,Proposal,1601.5,0,0.3902530550493068,Medium
+LD-00130,2025-03-30,Europe,Healthcare,SMB,Partner,43.42,3,1,Qualified,6758.56,0,0.3893422745036237,Medium
+LD-00754,2025-07-13,Europe,Professional Services,Mid-Market,Website,13.57,2,0,Closed Lost,22291.7,0,0.3888452765654792,Medium
+LD-00055,2025-01-01,Europe,Technology,Enterprise,Partner,35.87,3,0,Proposal,59482.16,0,0.38829559786163936,Medium
+LD-00363,2025-08-21,North America,Education,Mid-Market,Website,24.89,3,0,Qualified,8892.83,0,0.3881747429264733,Medium
+LD-00577,2025-04-18,APAC,Healthcare,SMB,Partner,23.41,4,0,Qualified,1921.87,0,0.3864025699804338,Medium
+LD-00142,2025-02-21,Europe,Education,SMB,Referral,22.6,4,0,Qualified,4502.97,0,0.3855944607304767,Medium
+LD-00730,2025-11-21,Europe,Professional Services,SMB,Paid Search,6.67,2,1,Closed Won,4391.93,1,0.3853111054519696,Medium
+LD-00799,2026-06-17,APAC,Education,SMB,Website,18.84,7,0,Proposal,5355.62,0,0.3850386595093515,Medium
+LD-00265,2025-11-07,APAC,Professional Services,Mid-Market,LinkedIn,16.8,2,0,Qualified,19403.94,0,0.38466951873800875,Medium
+LD-00099,2025-06-27,North America,Technology,Enterprise,Webinar,11.03,1,0,New,20400.67,0,0.3842553034233048,Medium
+LD-00336,2026-03-13,Europe,Professional Services,SMB,LinkedIn,21.36,5,0,Closed Lost,4719.75,0,0.3822774036148855,Medium
+LD-00358,2025-03-14,APAC,Technology,SMB,Partner,10.98,1,0,New,7339.49,0,0.38185786311238706,Medium
+LD-00318,2025-02-13,Europe,Education,Mid-Market,Paid Search,12.57,2,0,New,24990.12,0,0.38096499300698544,Medium
+LD-00212,2025-04-27,Europe,Retail,SMB,Webinar,11.44,4,0,Closed Won,5047.38,1,0.3807977081677465,Medium
+LD-00030,2025-08-01,Europe,Professional Services,SMB,Webinar,20.62,3,1,New,4803.69,0,0.38037497312911805,Medium
+LD-00781,2026-07-26,North America,Education,Mid-Market,Paid Search,17.02,2,0,Closed Won,21743.85,1,0.3794359369694371,Medium
+LD-00780,2025-04-20,APAC,Education,Mid-Market,LinkedIn,20.53,4,0,Closed Won,25393.23,1,0.3789835730550928,Medium
+LD-00597,2025-05-22,Europe,Retail,SMB,Partner,21.27,3,0,Closed Lost,4704.26,0,0.3770486090939353,Medium
+LD-00661,2025-02-08,North America,Healthcare,Mid-Market,LinkedIn,5.93,1,0,Closed Won,25340.88,1,0.37696342800951393,Medium
+LD-00210,2025-03-09,Europe,Retail,SMB,Referral,15.89,2,0,Proposal,3581.9,0,0.37592497940240777,Medium
+LD-00499,2025-02-17,North America,Healthcare,SMB,Partner,23.13,3,0,Closed Won,4610.35,1,0.3746237010347395,Medium
+LD-00699,2026-03-11,Europe,Professional Services,SMB,Website,2.67,2,0,Closed Won,1144.81,1,0.3743512381692355,Medium
+LD-00392,2026-09-06,North America,Professional Services,Mid-Market,Website,56.38,4,1,Qualified,4287.44,0,0.3743477390426116,Medium
+LD-00770,2025-11-11,Europe,Retail,SMB,LinkedIn,9.89,3,0,New,2736.1,0,0.37409149619093346,Medium
+LD-00056,2026-01-12,APAC,Retail,SMB,LinkedIn,24.94,4,1,Closed Won,7778.49,1,0.3732328807759602,Medium
+LD-00594,2025-07-26,Europe,Technology,SMB,LinkedIn,17.62,3,0,New,2460.97,0,0.37310281324908134,Medium
+LD-00721,2025-03-01,Europe,Professional Services,SMB,Website,21.69,1,2,Closed Won,6210.89,1,0.37272411684612744,Medium
+LD-00523,2025-02-03,North America,Technology,SMB,Website,21.19,2,1,New,2264.61,0,0.3720069281536435,Medium
+LD-00356,2025-11-12,Europe,Technology,Enterprise,Webinar,34.38,1,2,Closed Won,21089.33,1,0.3709114629247067,Medium
+LD-00616,2025-03-13,APAC,Education,SMB,Partner,5.89,1,0,Closed Won,4886.28,1,0.3699792344367121,Medium
+LD-00797,2026-05-20,North America,Technology,SMB,LinkedIn,18.79,3,0,Proposal,1173.96,0,0.36940903922479623,Medium
+LD-00700,2026-07-29,North America,Healthcare,Mid-Market,Website,23.69,1,0,Proposal,14644.5,0,0.36920505641030255,Medium
+LD-00526,2025-08-29,North America,Education,SMB,LinkedIn,17.74,0,1,Qualified,3827.09,0,0.3690838320903458,Medium
+LD-00557,2025-01-20,North America,Retail,SMB,Website,13.21,3,0,Closed Won,7822.72,1,0.3689074991390461,Medium
+LD-00378,2026-03-14,Europe,Professional Services,Enterprise,LinkedIn,17.26,2,0,Proposal,6726.3,0,0.36850770783498177,Medium
+LD-00580,2026-06-07,North America,Professional Services,Enterprise,Webinar,23.87,2,0,Qualified,32102.69,0,0.36710359492618366,Medium
+LD-00555,2025-03-18,North America,Education,Mid-Market,LinkedIn,30.75,3,0,Closed Won,20264.77,1,0.36627244658459707,Medium
+LD-00774,2025-01-29,APAC,Education,SMB,Paid Search,10.64,3,1,New,3260.91,0,0.3651395805294916,Medium
+LD-00338,2025-11-09,APAC,Professional Services,Mid-Market,LinkedIn,13.49,2,0,Proposal,24161.67,0,0.3650593168223636,Medium
+LD-00120,2025-10-10,Europe,Retail,Mid-Market,Website,16.33,2,0,New,5175.17,0,0.3649318541914755,Medium
+LD-00570,2025-10-17,Europe,Professional Services,SMB,Website,9.74,3,0,Proposal,4860.95,0,0.3608870877961292,Medium
+LD-00567,2025-10-30,APAC,Technology,Enterprise,Referral,2.68,0,0,Closed Won,27277.89,1,0.36076010989518087,Medium
+LD-00438,2025-04-01,Europe,Professional Services,SMB,Referral,16.99,2,0,Qualified,5186.93,0,0.36048513297640383,Medium
+LD-00667,2025-04-12,APAC,Professional Services,Mid-Market,Referral,57.6,1,2,Closed Lost,9560.99,0,0.35954768153085165,Medium
+LD-00554,2025-03-16,APAC,Professional Services,Mid-Market,Paid Search,6.28,1,0,Qualified,14202.47,0,0.3595282169370926,Medium
+LD-00352,2026-07-18,North America,Education,SMB,Partner,24.7,2,0,New,7327.41,0,0.3593880077241463,Medium
+LD-00612,2025-04-18,Europe,Education,SMB,Paid Search,6.69,1,1,Closed Won,2825.18,1,0.35935571009323297,Medium
+LD-00453,2025-06-26,Europe,Technology,SMB,Webinar,20.92,5,0,Closed Won,1612.85,1,0.35911235065127217,Medium
+LD-00281,2026-01-08,North America,Professional Services,SMB,Webinar,9.89,3,0,Closed Won,7596.11,1,0.359041180569796,Medium
+LD-00588,2025-07-26,North America,Professional Services,Mid-Market,LinkedIn,39.19,1,1,Closed Lost,17865.94,0,0.35877339089424853,Medium
+LD-00584,2025-12-11,Europe,Education,SMB,LinkedIn,9.94,2,0,Qualified,5846.64,0,0.3580181875441287,Medium
+LD-00097,2025-09-11,North America,Professional Services,SMB,LinkedIn,8.2,1,0,Qualified,7890.32,0,0.35736109719060993,Medium
+LD-00299,2025-09-15,APAC,Education,SMB,Referral,17.08,3,0,Closed Won,5795.44,1,0.3570639764873734,Medium
+LD-00381,2025-11-14,Europe,Healthcare,Enterprise,Website,14.58,2,0,Proposal,46609.07,0,0.3565264016557843,Medium
+LD-00552,2026-03-20,North America,Education,SMB,Webinar,8.21,0,1,Qualified,1889.22,0,0.35558218768282573,Medium
+LD-00085,2026-07-03,North America,Technology,SMB,Webinar,17.04,3,0,Proposal,868.82,0,0.35542047002773475,Medium
+LD-00107,2025-08-27,Europe,Retail,SMB,Paid Search,19.62,1,0,New,2499.07,0,0.355225766356133,Medium
+LD-00388,2026-09-09,APAC,Education,Mid-Market,LinkedIn,11.76,0,1,Closed Lost,19888.09,0,0.3549008695126205,Medium
+LD-00172,2025-07-03,Europe,Technology,Mid-Market,LinkedIn,19.66,2,0,Closed Won,7019.66,1,0.35476371318650396,Medium
+LD-00406,2026-07-04,APAC,Technology,Enterprise,Website,35.31,2,2,Closed Won,60029.91,1,0.3539041899824443,Medium
+LD-00620,2025-03-26,North America,Education,SMB,Website,10.54,2,0,New,6817.07,0,0.35365106840962973,Medium
+LD-00544,2025-11-22,APAC,Retail,Mid-Market,Website,12.68,2,0,Closed Won,9357.93,1,0.3525775147645335,Medium
+LD-00425,2025-08-07,Europe,Technology,SMB,Paid Search,17.46,4,0,Closed Won,4549.66,1,0.35038008301678464,Medium
+LD-00395,2025-11-12,North America,Education,SMB,Webinar,8.33,2,0,Qualified,1977.12,0,0.34969975832642985,Low
+LD-00660,2025-02-04,Europe,Professional Services,SMB,Website,1.49,2,0,Qualified,4068.49,0,0.34910701815406076,Low
+LD-00091,2025-10-11,North America,Professional Services,Mid-Market,Paid Search,19.98,1,0,New,20986.02,0,0.3468065641864667,Low
+LD-00740,2025-03-20,Europe,Professional Services,SMB,Referral,18.07,2,0,Closed Won,3303.54,1,0.34677934745596145,Low
+LD-00232,2025-09-09,Europe,Healthcare,Enterprise,LinkedIn,46.86,6,0,Proposal,17230.25,0,0.34545916054463355,Low
+LD-00530,2025-09-11,North America,Technology,SMB,Partner,18.32,0,0,New,4825.06,0,0.34507857113522283,Low
+LD-00445,2025-04-29,North America,Professional Services,Enterprise,Website,35.85,5,0,Proposal,11070.71,0,0.34477293429758404,Low
+LD-00179,2026-03-23,APAC,Retail,SMB,Website,29.2,2,1,Qualified,5116.9,0,0.34467564950676094,Low
+LD-00234,2026-05-23,Europe,Education,SMB,Partner,9.11,1,0,New,2511.93,0,0.3401118908947353,Low
+LD-00039,2026-03-11,North America,Professional Services,SMB,Referral,29.63,2,0,Proposal,7735.9,0,0.33948978020774817,Low
+LD-00490,2025-07-05,Europe,Retail,SMB,Website,0.96,2,0,Proposal,8448.68,0,0.33745119460374,Low
+LD-00776,2025-03-30,APAC,Technology,SMB,Website,25.18,6,0,Closed Won,5002.21,1,0.33647947413504087,Low
+LD-00541,2025-04-12,APAC,Technology,Enterprise,Paid Search,25.21,3,0,Closed Won,36926.79,1,0.332543508849802,Low
+LD-00305,2025-07-30,APAC,Technology,Mid-Market,Partner,22.49,1,0,Proposal,5638.77,0,0.3324808343066769,Low
+LD-00242,2025-02-16,APAC,Healthcare,Mid-Market,Webinar,35.07,5,0,Closed Lost,22261.37,0,0.33200968933150815,Low
+LD-00695,2026-02-04,APAC,Professional Services,SMB,LinkedIn,12.34,3,0,Qualified,812.1,0,0.3319048884109571,Low
+LD-00694,2026-06-27,North America,Healthcare,SMB,Paid Search,21.17,2,0,Qualified,996.22,0,0.3318405395790219,Low
+LD-00551,2025-01-25,Europe,Education,Mid-Market,Website,18.48,3,0,Qualified,7677.14,0,0.331445870512773,Low
+LD-00361,2025-05-20,APAC,Technology,Mid-Market,Partner,14.9,0,0,New,8585.99,0,0.3297153855582792,Low
+LD-00769,2025-04-24,North America,Retail,SMB,Website,26.82,4,0,Qualified,1771.63,0,0.3278491157145608,Low
+LD-00206,2025-04-21,North America,Professional Services,Mid-Market,Website,32.12,3,0,Qualified,23918.54,0,0.3277997607578369,Low
+LD-00645,2025-06-18,Europe,Technology,SMB,Partner,23.13,2,0,New,4292.86,0,0.3271716181249055,Low
+LD-00548,2025-03-06,North America,Professional Services,Enterprise,Webinar,38.08,6,0,Proposal,47737.79,0,0.3267727172427782,Low
+LD-00323,2025-07-16,North America,Education,SMB,Referral,25.77,2,0,Closed Won,5530.35,1,0.326257087652754,Low
+LD-00755,2026-03-05,Europe,Technology,SMB,Website,24.58,5,0,Qualified,4843.64,0,0.3250978603640219,Low
+LD-00489,2026-09-05,Europe,Retail,Mid-Market,Website,10.7,0,0,Proposal,21631.18,0,0.32505102795304003,Low
+LD-00162,2026-04-13,APAC,Professional Services,SMB,Partner,28.67,3,0,New,5767.13,0,0.3241205953092276,Low
+LD-00626,2025-06-04,Europe,Professional Services,SMB,Website,25.03,5,0,Closed Won,1415.37,1,0.32397301776966236,Low
+LD-00428,2025-08-30,APAC,Retail,SMB,Website,10.65,2,0,Closed Lost,3155.46,0,0.323386378067549,Low
+LD-00676,2026-03-05,Europe,Retail,SMB,Paid Search,25.2,5,0,Proposal,3468.27,0,0.32317751807075745,Low
+LD-00301,2025-09-23,APAC,Technology,Mid-Market,Partner,25.57,0,0,Closed Lost,12999.88,0,0.32153852724324034,Low
+LD-00126,2025-04-25,Europe,Professional Services,SMB,Website,13.92,3,0,Proposal,5770.22,0,0.3215269423535579,Low
+LD-00298,2025-05-01,APAC,Education,SMB,Website,19.07,5,0,Qualified,3013.56,0,0.32136498057925317,Low
+LD-00450,2026-03-09,Europe,Education,SMB,Referral,8.38,1,0,Closed Won,1182.59,1,0.31987274663301224,Low
+LD-00340,2025-03-28,APAC,Healthcare,SMB,LinkedIn,17.32,4,0,Proposal,1613.03,0,0.3183292861337543,Low
+LD-00054,2025-09-09,Europe,Education,SMB,Webinar,3.77,2,0,Closed Lost,7960.23,0,0.3170914244149766,Low
+LD-00641,2025-08-01,APAC,Technology,SMB,Referral,13.17,1,0,Proposal,5362.54,0,0.3167824153408884,Low
+LD-00314,2026-03-24,North America,Education,Mid-Market,Website,31.98,3,0,New,18103.05,0,0.3149226708264031,Low
+LD-00447,2026-09-02,APAC,Retail,SMB,Website,16.1,2,1,Qualified,6736.25,0,0.3149030612320361,Low
+LD-00302,2026-04-23,North America,Professional Services,SMB,LinkedIn,33.56,4,0,New,4907.89,0,0.31433052442271375,Low
+LD-00434,2026-06-21,APAC,Healthcare,SMB,Webinar,21.12,4,0,Proposal,3519.84,0,0.31402072056582375,Low
+LD-00789,2025-07-30,APAC,Professional Services,Mid-Market,Website,28.69,3,0,Closed Lost,3293.83,0,0.3139787677121649,Low
+LD-00185,2025-02-19,APAC,Technology,SMB,Website,4.89,2,0,Qualified,5121.37,0,0.3138201620588151,Low
+LD-00155,2025-09-25,North America,Education,SMB,Referral,43.39,4,0,New,4179.2,0,0.3133207528324469,Low
+LD-00441,2026-07-06,APAC,Education,SMB,Webinar,7.05,3,0,Closed Lost,7429.08,0,0.31305745906557686,Low
+LD-00595,2025-12-06,North America,Education,Mid-Market,LinkedIn,14.45,1,0,Closed Won,9247.71,1,0.3128071679387379,Low
+LD-00387,2026-08-25,Europe,Professional Services,SMB,Partner,21.95,2,0,Qualified,7082.34,0,0.31278163843024487,Low
+LD-00044,2025-06-23,North America,Professional Services,SMB,LinkedIn,13.38,1,0,Proposal,3227.11,0,0.31159137010096916,Low
+LD-00420,2025-05-28,APAC,Technology,SMB,Paid Search,6.08,2,0,Qualified,4803.78,0,0.3114927344598724,Low
+LD-00545,2026-02-02,North America,Education,SMB,Referral,14.53,1,0,Closed Lost,2411.0,0,0.3109282162597764,Low
+LD-00598,2025-07-08,Europe,Education,SMB,Website,6.36,3,0,Qualified,3605.51,0,0.3107600075369156,Low
+LD-00715,2025-03-10,APAC,Education,SMB,LinkedIn,15.45,4,0,New,4568.46,0,0.3093417468616186,Low
+LD-00218,2026-07-26,North America,Education,SMB,Webinar,11.94,3,0,Qualified,5744.75,0,0.30854255238082756,Low
+LD-00508,2025-11-19,APAC,Healthcare,Enterprise,Website,11.95,2,0,New,19287.04,0,0.30638891295855003,Low
+LD-00734,2025-11-24,Europe,Healthcare,SMB,Website,11.19,3,0,Closed Lost,6377.54,0,0.30600050789221644,Low
+LD-00539,2025-10-05,North America,Education,Mid-Market,Website,48.9,5,0,Closed Won,20576.58,1,0.30555192443407775,Low
+LD-00036,2026-08-14,North America,Retail,SMB,Paid Search,27.89,4,0,New,3595.5,0,0.30552153774964674,Low
+LD-00765,2025-08-29,APAC,Education,Mid-Market,LinkedIn,13.81,2,0,Closed Won,20169.0,1,0.3046810704342517,Low
+LD-00019,2025-03-21,APAC,Retail,Enterprise,Website,20.38,4,0,Qualified,59320.05,0,0.3036821522062611,Low
+LD-00498,2025-11-16,Europe,Technology,SMB,Website,6.05,2,0,Closed Won,5075.8,1,0.30354220497427115,Low
+LD-00440,2025-09-20,Europe,Technology,Mid-Market,Website,10.99,0,0,Proposal,3669.58,0,0.30347309832634395,Low
+LD-00122,2025-05-29,Europe,Education,SMB,LinkedIn,14.31,3,0,Qualified,2173.61,0,0.30322706099318597,Low
+LD-00137,2026-04-14,APAC,Education,Enterprise,Webinar,6.63,1,0,New,38638.27,0,0.30226227712582676,Low
+LD-00258,2026-08-16,North America,Technology,SMB,LinkedIn,32.64,3,0,Qualified,2475.33,0,0.3022051773969592,Low
+LD-00439,2026-08-26,APAC,Technology,Mid-Market,Referral,34.36,2,0,Qualified,11749.95,0,0.3019065234466651,Low
+LD-00312,2025-11-26,Europe,Professional Services,SMB,Website,10.57,2,0,Proposal,4095.18,0,0.300523998229456,Low
+LD-00609,2025-03-29,APAC,Education,SMB,Website,1.78,3,0,Closed Won,2360.83,1,0.3003770466656412,Low
+LD-00470,2025-08-25,Europe,Retail,SMB,Website,7.14,2,0,New,7422.94,0,0.30029695356757413,Low
+LD-00602,2026-07-31,APAC,Technology,Enterprise,LinkedIn,27.67,3,0,Closed Lost,65679.89,0,0.30015531610889506,Low
+LD-00520,2026-02-02,APAC,Education,SMB,Partner,17.35,2,0,New,1782.21,0,0.29979734378841155,Low
+LD-00389,2026-01-03,North America,Technology,Enterprise,Paid Search,57.0,4,1,New,30978.4,0,0.2977738998407059,Low
+LD-00446,2026-01-13,Europe,Professional Services,SMB,LinkedIn,10.96,2,0,Qualified,6371.81,0,0.2976788541764162,Low
+LD-00632,2025-06-08,APAC,Retail,Mid-Market,Website,11.29,1,0,Closed Won,10516.33,1,0.297397147481125,Low
+LD-00496,2026-06-25,Europe,Professional Services,SMB,Website,7.94,2,0,New,2486.63,0,0.29646723239304307,Low
+LD-00017,2025-06-10,Europe,Education,SMB,Website,11.47,3,0,Qualified,2006.75,0,0.29619732498905577,Low
+LD-00183,2025-01-31,Europe,Healthcare,SMB,Website,22.93,3,0,Proposal,1277.25,0,0.2954782368931393,Low
+LD-00371,2026-02-18,APAC,Professional Services,SMB,Website,18.73,4,0,Closed Won,3628.15,1,0.2948695453200599,Low
+LD-00240,2025-08-08,North America,Technology,Mid-Market,Website,34.89,2,0,Closed Won,10136.23,1,0.2943244728313428,Low
+LD-00209,2025-06-30,North America,Healthcare,SMB,Partner,24.84,0,0,Closed Lost,7228.37,0,0.2929627795371051,Low
+LD-00125,2025-07-06,North America,Technology,SMB,Paid Search,3.66,0,0,Closed Won,4714.71,1,0.29215931307184684,Low
+LD-00589,2025-09-10,North America,Education,SMB,Website,9.93,2,0,Closed Lost,4199.61,0,0.29098380777836896,Low
+LD-00704,2025-02-16,APAC,Professional Services,SMB,Webinar,16.02,3,0,Closed Lost,862.67,0,0.29027942315129396,Low
+LD-00379,2026-03-21,Europe,Technology,Mid-Market,Website,33.93,3,0,New,13782.34,0,0.289495954768163,Low
+LD-00735,2026-02-08,North America,Technology,SMB,Partner,19.85,0,0,Closed Won,5757.19,1,0.288835186106136,Low
+LD-00479,2025-11-30,Europe,Education,SMB,LinkedIn,27.37,5,0,New,7336.28,0,0.2885285610015976,Low
+LD-00320,2026-05-14,APAC,Education,Enterprise,LinkedIn,9.92,1,0,Closed Won,41679.66,1,0.28809349219665914,Low
+LD-00357,2025-02-04,APAC,Technology,Mid-Market,Webinar,20.8,2,0,New,19845.86,0,0.2849497594160958,Low
+LD-00464,2025-04-14,North America,Education,SMB,Website,20.72,3,0,Closed Lost,6157.82,0,0.2846320094483745,Low
+LD-00101,2025-12-31,APAC,Retail,Enterprise,Website,17.12,2,0,Closed Lost,44537.37,0,0.2823131924251093,Low
+LD-00110,2026-07-10,APAC,Professional Services,SMB,Partner,23.64,2,0,Proposal,1703.13,0,0.28198015131960125,Low
+LD-00417,2025-03-15,North America,Professional Services,SMB,Referral,32.16,1,0,New,4907.01,0,0.2808313232678374,Low
+LD-00601,2026-02-10,Europe,Professional Services,SMB,Webinar,6.45,2,0,Closed Won,7482.29,1,0.27990824462891617,Low
+LD-00168,2025-03-09,APAC,Technology,SMB,Website,16.56,0,1,Closed Won,4871.19,1,0.27847283484144786,Low
+LD-00466,2026-01-27,Europe,Education,Enterprise,Website,20.94,3,0,Qualified,27788.05,0,0.2770833764600781,Low
+LD-00725,2025-06-20,North America,Healthcare,SMB,Website,21.66,3,0,Qualified,5503.22,0,0.2769232571241489,Low
+LD-00561,2026-07-29,North America,Healthcare,SMB,Webinar,16.4,2,0,Closed Won,3919.41,1,0.2765506900908724,Low
+LD-00181,2026-02-06,APAC,Education,SMB,Website,26.55,5,0,Proposal,4986.7,0,0.27610132437889057,Low
+LD-00291,2025-05-16,APAC,Professional Services,SMB,Paid Search,7.42,2,0,Closed Won,1792.05,1,0.2760067290995419,Low
+LD-00531,2026-03-21,Europe,Healthcare,SMB,LinkedIn,10.56,1,0,Qualified,2577.88,0,0.27541102577921545,Low
+LD-00610,2025-01-08,Europe,Healthcare,SMB,Webinar,13.19,2,0,Closed Lost,6546.37,0,0.27513566011205626,Low
+LD-00486,2026-09-11,Europe,Education,SMB,Website,18.96,2,1,Closed Won,6446.51,1,0.27509702331807484,Low
+LD-00579,2026-04-22,APAC,Healthcare,SMB,Partner,33.96,3,0,Closed Lost,6744.73,0,0.2750212526415264,Low
+LD-00757,2026-03-02,North America,Education,SMB,Website,23.71,4,0,New,5689.23,0,0.2739988994919095,Low
+LD-00058,2026-07-09,Europe,Education,Mid-Market,Website,23.05,1,0,New,6339.51,0,0.2739156420793729,Low
+LD-00330,2026-01-10,North America,Education,SMB,Paid Search,18.21,1,0,Qualified,1382.46,0,0.2728923583315213,Low
+LD-00426,2025-11-04,APAC,Education,SMB,Partner,23.1,2,0,New,828.06,0,0.2705851886404571,Low
+LD-00187,2026-09-11,North America,Professional Services,SMB,Referral,34.56,2,0,Closed Lost,1182.44,0,0.27054909934176924,Low
+LD-00800,2026-08-13,Europe,Professional Services,Mid-Market,Paid Search,28.72,2,0,Closed Won,21598.18,1,0.2698078838664872,Low
+LD-00497,2025-01-20,Europe,Technology,SMB,Paid Search,8.37,1,0,Closed Won,5915.76,1,0.2696395180343321,Low
+LD-00309,2025-10-20,North America,Education,Mid-Market,Website,9.68,0,0,Closed Won,10182.59,1,0.26689175983467983,Low
+LD-00487,2025-04-25,Europe,Professional Services,SMB,Website,20.62,3,0,Closed Won,4204.05,1,0.26353754697552334,Low
+LD-00784,2025-03-27,Europe,Professional Services,SMB,Website,37.91,4,1,Closed Won,5264.33,1,0.26344215449233205,Low
+LD-00472,2026-03-22,Europe,Professional Services,SMB,LinkedIn,11.87,1,0,Closed Lost,1658.58,0,0.26291351691921666,Low
+LD-00214,2026-08-05,APAC,Education,SMB,Webinar,7.56,2,0,Qualified,7345.14,0,0.2625681116437383,Low
+LD-00473,2026-03-20,North America,Professional Services,SMB,Website,12.42,1,0,Qualified,6217.16,0,0.26050019389797235,Low
+LD-00083,2026-08-14,APAC,Education,Mid-Market,Website,28.13,3,0,Qualified,21518.51,0,0.2597714596352189,Low
+LD-00500,2025-04-20,Europe,Professional Services,SMB,Referral,27.11,1,0,Qualified,6679.44,0,0.2594849212858039,Low
+LD-00639,2025-06-10,APAC,Education,SMB,Website,13.51,3,0,New,1528.76,0,0.25907884819948473,Low
+LD-00148,2026-02-14,Europe,Education,SMB,Website,5.45,0,0,Proposal,6552.52,0,0.25888019116594735,Low
+LD-00231,2026-07-24,North America,Retail,SMB,Website,13.38,1,0,Qualified,5118.77,0,0.25829063767822164,Low
+LD-00668,2025-02-13,APAC,Technology,SMB,Website,11.43,2,0,Closed Won,6646.7,1,0.2579768483270339,Low
+LD-00351,2026-04-21,Europe,Technology,Enterprise,Website,10.89,0,0,Qualified,50816.95,0,0.2573502699483587,Low
+LD-00418,2025-11-07,APAC,Retail,SMB,LinkedIn,19.99,3,0,Proposal,3832.88,0,0.257277825591406,Low
+LD-00547,2026-01-31,Europe,Professional Services,SMB,Referral,40.04,4,0,Qualified,3265.14,0,0.25566748804492617,Low
+LD-00096,2026-06-01,Europe,Education,SMB,LinkedIn,24.84,2,1,Closed Lost,6199.92,0,0.2553902771749275,Low
+LD-00024,2026-05-10,APAC,Healthcare,SMB,Website,22.31,3,0,Proposal,2130.06,0,0.25336893843824,Low
+LD-00139,2026-07-15,APAC,Education,SMB,Website,18.5,4,0,Proposal,3660.54,0,0.25281921455083217,Low
+LD-00027,2026-03-03,Europe,Retail,SMB,Website,15.89,2,0,Qualified,4100.56,0,0.2519395904614117,Low
+LD-00046,2025-06-22,APAC,Education,SMB,LinkedIn,19.34,3,0,Closed Won,2515.89,1,0.25160904715434557,Low
+LD-00782,2025-06-22,APAC,Professional Services,SMB,Website,18.29,4,0,Qualified,7000.78,0,0.2500455236199818,Low
+LD-00088,2025-08-05,Europe,Technology,SMB,Webinar,13.38,1,0,Proposal,6866.89,0,0.24981893055916332,Low
+LD-00153,2025-05-02,North America,Professional Services,Enterprise,Partner,67.17,3,0,Qualified,52000.57,0,0.24813434796718828,Low
+LD-00100,2026-01-05,APAC,Retail,Mid-Market,LinkedIn,23.59,1,0,Closed Lost,2805.96,0,0.24738758951265186,Low
+LD-00208,2025-07-06,Europe,Professional Services,SMB,Website,25.97,4,0,Closed Won,2559.97,1,0.24700889627884573,Low
+LD-00277,2026-09-03,North America,Retail,SMB,LinkedIn,45.52,1,1,Qualified,2343.14,0,0.24562697903675101,Low
+LD-00064,2025-06-16,APAC,Retail,SMB,LinkedIn,15.99,1,0,Closed Won,6058.22,1,0.24479064615735752,Low
+LD-00121,2025-08-19,Europe,Technology,SMB,Website,19.59,2,0,Closed Won,5945.09,1,0.24400262890483232,Low
+LD-00040,2025-09-20,Europe,Retail,Mid-Market,Webinar,28.64,2,0,Closed Won,15113.67,1,0.24323472871381913,Low
+LD-00117,2025-05-12,APAC,Technology,SMB,Website,31.28,3,1,Qualified,2074.9,0,0.24242992442962905,Low
+LD-00709,2025-08-07,Europe,Technology,Mid-Market,Website,17.31,0,0,Proposal,18944.35,0,0.24220455172326588,Low
+LD-00768,2025-03-05,North America,Technology,SMB,Website,11.72,0,0,Qualified,1247.97,0,0.23944322815577745,Low
+LD-00573,2026-01-25,Europe,Professional Services,SMB,Website,29.53,4,0,New,2441.04,0,0.23817227677007388,Low
+LD-00304,2025-04-06,Europe,Education,SMB,Webinar,16.69,3,0,New,2738.09,0,0.23384124387291924,Low
+LD-00047,2025-10-12,Europe,Professional Services,SMB,Website,30.39,4,0,Closed Won,1451.96,1,0.23287753508611134,Low
+LD-00394,2025-03-20,Europe,Education,SMB,Paid Search,11.64,0,1,Closed Won,988.0,1,0.23141586097897737,Low
+LD-00403,2025-01-03,APAC,Education,Enterprise,Website,28.55,3,0,Proposal,23649.63,0,0.22996619501597235,Low
+LD-00750,2026-03-13,APAC,Professional Services,SMB,Website,8.22,1,0,New,2420.95,0,0.22961048254640107,Low
+LD-00173,2026-06-26,North America,Technology,Mid-Market,Webinar,33.12,1,0,Proposal,13353.68,0,0.22793836959111058,Low
+LD-00251,2025-09-05,Europe,Healthcare,SMB,Paid Search,27.78,4,0,New,3980.58,0,0.2274301888184922,Low
+LD-00006,2025-07-14,APAC,Technology,SMB,Website,31.39,2,1,New,5346.17,0,0.22440163153556053,Low
+LD-00380,2025-04-08,APAC,Technology,SMB,Website,30.86,3,0,New,4064.79,0,0.22295331090022746,Low
+LD-00203,2025-01-29,Europe,Technology,SMB,LinkedIn,18.32,1,0,Closed Won,7443.13,1,0.21936216767043165,Low
+LD-00068,2026-05-22,North America,Education,SMB,LinkedIn,38.51,0,2,Qualified,6118.19,0,0.21907982534947706,Low
+LD-00020,2025-04-06,Europe,Professional Services,SMB,Paid Search,22.14,2,0,Closed Lost,1527.03,0,0.21809137118208036,Low
+LD-00455,2025-01-03,North America,Technology,SMB,Webinar,50.78,5,0,New,4641.04,0,0.21688630153078292,Low
+LD-00542,2026-05-24,Europe,Education,SMB,Website,10.77,2,0,Qualified,5988.99,0,0.21600393163352788,Low
+LD-00681,2025-03-31,North America,Professional Services,SMB,Website,16.48,0,0,New,1333.43,0,0.21412687808773834,Low
+LD-00347,2026-04-18,APAC,Healthcare,SMB,Website,13.37,2,0,Qualified,1370.94,0,0.21237184545141133,Low
+LD-00692,2025-11-13,APAC,Education,Mid-Market,Paid Search,37.66,4,0,Closed Lost,17391.88,0,0.2122274384807545,Low
+LD-00468,2025-07-10,APAC,Education,Enterprise,LinkedIn,8.32,0,0,New,46608.97,0,0.21139339418279085,Low
+LD-00646,2025-11-19,APAC,Retail,SMB,Paid Search,12.38,1,0,Proposal,6132.05,0,0.21121759127914796,Low
+LD-00321,2025-12-09,APAC,Healthcare,SMB,LinkedIn,17.34,2,0,Qualified,2072.28,0,0.21005923509893115,Low
+LD-00235,2025-08-22,APAC,Professional Services,SMB,LinkedIn,32.84,3,0,Qualified,3485.06,0,0.2092827964879209,Low
+LD-00002,2026-01-03,Europe,Professional Services,SMB,Webinar,7.8,0,0,Proposal,6256.45,0,0.2090600956051906,Low
+LD-00167,2025-09-11,APAC,Education,Enterprise,Website,34.96,4,0,Proposal,21812.82,0,0.20757186002624856,Low
+LD-00405,2026-06-17,APAC,Technology,SMB,Website,19.39,1,0,New,8151.36,0,0.20493485288674526,Low
+LD-00230,2025-02-06,North America,Professional Services,SMB,Website,47.37,3,1,New,5313.41,0,0.20176712412307377,Low
+LD-00738,2025-02-22,North America,Healthcare,SMB,Website,36.57,2,0,New,4290.84,0,0.20127797301741956,Low
+LD-00222,2026-06-16,Europe,Healthcare,SMB,Paid Search,33.46,3,0,Qualified,7336.17,0,0.19935539614712922,Low
+LD-00482,2025-05-04,North America,Professional Services,SMB,Website,52.68,5,0,Closed Won,2258.74,1,0.19878380217530078,Low
+LD-00003,2025-12-24,APAC,Education,Mid-Market,Webinar,22.03,1,0,Qualified,9591.75,0,0.1987731292116055,Low
+LD-00042,2025-10-11,APAC,Education,SMB,Website,17.55,2,0,Proposal,1394.36,0,0.19835178345372648,Low
+LD-00219,2026-02-27,APAC,Technology,SMB,Webinar,20.84,1,0,Closed Lost,4651.36,0,0.19811503266315544,Low
+LD-00152,2025-03-21,APAC,Professional Services,SMB,LinkedIn,27.98,2,0,New,7158.26,0,0.19492500940147484,Low
+LD-00295,2026-08-27,APAC,Retail,SMB,Webinar,22.02,1,0,Qualified,7715.8,0,0.1923759496608822,Low
+LD-00743,2026-08-11,APAC,Professional Services,Mid-Market,Paid Search,43.68,2,0,Closed Lost,18467.01,0,0.1904641165494441,Low
+LD-00237,2026-07-26,Europe,Professional Services,SMB,LinkedIn,58.23,3,1,New,6131.91,0,0.18702163727044838,Low
+LD-00513,2025-01-08,North America,Retail,SMB,LinkedIn,34.82,2,0,Qualified,4008.82,0,0.18510747417700024,Low
+LD-00751,2026-06-11,North America,Technology,SMB,Website,38.81,3,0,New,5267.8,0,0.17730967937663572,Low
+LD-00080,2026-03-10,APAC,Retail,SMB,Paid Search,23.45,2,0,Qualified,6340.42,0,0.17581925445996927,Low
+LD-00591,2025-01-27,APAC,Education,SMB,Webinar,14.11,1,0,Proposal,4456.14,0,0.17391027172282927,Low
+LD-00410,2026-01-25,APAC,Professional Services,Mid-Market,Website,32.13,1,0,New,3017.75,0,0.17290936969917792,Low
+LD-00223,2026-02-19,Europe,Education,SMB,Website,22.71,2,0,Proposal,6769.96,0,0.17147613134716935,Low
+LD-00532,2026-04-24,Europe,Retail,Mid-Market,Website,48.94,1,0,New,20361.45,0,0.17008096349922588,Low
+LD-00342,2025-02-25,APAC,Healthcare,SMB,Webinar,15.69,1,0,Closed Won,1727.34,1,0.16518762214917168,Low
+LD-00252,2026-07-17,APAC,Technology,Enterprise,Referral,46.62,1,0,Closed Won,31965.95,1,0.1642064737288395,Low
+LD-00575,2025-07-23,APAC,Education,SMB,LinkedIn,18.45,1,0,Closed Won,3376.6,1,0.1561749497480568,Low
+LD-00327,2025-02-22,APAC,Retail,SMB,Webinar,28.41,2,0,Qualified,4748.91,0,0.1444774570036155,Low
+LD-00604,2026-01-27,APAC,Professional Services,SMB,Partner,42.52,1,0,Closed Lost,7280.76,0,0.142761205207948,Low
+LD-00343,2025-05-03,APAC,Education,SMB,Website,18.55,1,0,New,1394.61,0,0.14070468632657082,Low
+LD-00160,2025-04-21,APAC,Retail,Enterprise,Website,45.72,4,0,Closed Won,11239.11,1,0.14021121530959443,Low
+LD-00308,2026-06-23,Europe,Professional Services,SMB,Website,36.54,2,0,New,3049.37,0,0.13795028300122456,Low
+LD-00174,2025-11-18,APAC,Education,Enterprise,Webinar,34.19,2,0,New,9511.07,0,0.13731620277864806,Low
+LD-00090,2025-09-01,Europe,Healthcare,SMB,LinkedIn,26.57,1,0,Qualified,6255.91,0,0.12979064961490858,Low
+LD-00087,2026-09-08,APAC,Professional Services,SMB,Webinar,21.37,1,0,New,6403.76,0,0.12484639645197207,Low
+LD-00260,2025-02-02,Europe,Healthcare,SMB,Website,38.93,3,0,Closed Won,2195.29,1,0.12111749880660001,Low
+LD-00605,2025-12-14,APAC,Technology,SMB,Website,36.23,0,0,Qualified,2332.42,0,0.1156026908280708,Low
+LD-00629,2025-12-12,Europe,Healthcare,SMB,LinkedIn,44.88,1,1,Closed Lost,5528.48,0,0.11456568277637098,Low
+LD-00549,2025-07-03,APAC,Professional Services,Mid-Market,Paid Search,81.38,4,0,New,18058.13,0,0.0874433960596457,Low
+LD-00749,2026-04-21,APAC,Professional Services,SMB,Webinar,45.92,1,0,Qualified,1776.16,0,0.05213580890539933,Low

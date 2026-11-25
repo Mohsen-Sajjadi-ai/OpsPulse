@@ -1,0 +1,10 @@
+{
+  "total_leads": 800,
+  "converted_leads": 293,
+  "conversion_rate": 0.36625,
+  "average_response_time_hours": 16.3233125,
+  "median_response_time_hours": 14.245000000000001,
+  "average_interactions": 3.16125,
+  "total_pipeline_value_usd": 9539527.91,
+  "converted_pipeline_value_usd": 3614868.88
+}
