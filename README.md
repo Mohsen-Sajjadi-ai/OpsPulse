@@ -207,6 +207,21 @@ The application generates a report bundle in `outputs/`.
 | `sales_funnel.png` | Sales funnel visualization |
 | `response_time_by_source.png` | Response times by source |
 
+### Visual Results
+
+#### 1. Lead Conversion by Source
+
+![Lead Conversion by Source](outputs/conversion_by_source.png)
+
+#### 2. Sales Funnel Analysis
+
+![Sales Funnel Analysis](outputs/sales_funnel.png)
+
+#### 3. Response Time by Lead Source
+
+![Response Time by Lead Source](outputs/response_time_by_source.png)
+
+
 ## 8. Installation and Execution
 
 ### Requirements
